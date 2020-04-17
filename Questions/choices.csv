@@ -1,0 +1,3304 @@
+id,choice_text,question_id,set_id,question_type
+101,Acceleration ,1,1,P
+102,Energy ,1,1,P
+103,Force ,1,1,P
+104,Impulse ,1,1,P
+105,Mass ,1,1,P
+106,Mechanical work ,1,1,P
+107,Moment ,1,1,P
+108,Momentum ,1,1,P
+109,Time ,1,1,P
+110,Torque ,1,1,P
+111,Relative velocity ,1,1,P
+112,displacement ,1,1,P
+113,frequency ,1,1,P
+114,Electrostatics ,2,1,P
+115,Conductor ,2,1,P
+116,Coulomb's law ,2,1,P
+117,Electric charge ,2,1,P
+118,Electric flux ,2,1,P
+119,potential energy ,2,1,P
+120,Induction ,2,1,P
+121,Insulator ,2,1,P
+122,Electromagnetic induction ,2,1,P
+123,Displacement current ,2,1,P
+124,Electromagnetic field ,2,1,P
+125,Electromagnetic radiation ,2,1,P
+126,Alternating current ,2,1,P
+127,Capacitance ,2,1,P
+128,Electric current ,2,1,P
+129,Electric potential ,2,1,P
+130,Electromotive force ,2,1,P
+131,Acceleration ,3,1,P
+132,Angular momentum ,3,1,P
+133,Energy ,3,1,P
+134,Force ,3,1,P
+135,Mass ,3,1,P
+136,Mechanical power ,3,1,P
+137,Moment ,3,1,P
+138,Momentum ,3,1,P
+139,Time ,3,1,P
+140,Torque ,3,1,P
+141,Velocity ,3,1,P
+142,Damping ,3,1,P
+143,Displacement ,3,1,P
+144,Angular acceleration ,3,1,P
+145,displacement ,3,1,P
+146,frequency ,3,1,P
+147,velocity ,3,1,P
+148,field ,4,1,P
+149,Electric field ,4,1,P
+150,Magnetic field ,4,1,P
+151,Electromagnetic field ,4,1,P
+152,Gravitational field ,4,1,P
+153,Field (Bourdieu) ,4,1,P
+154,Angular momentum ,5,1,P
+155,Couple ,5,1,P
+156,Force ,5,1,P
+157,Inertia ,5,1,P
+158,Mass ,5,1,P
+159,Moment ,5,1,P
+160,Momentum ,5,1,P
+161,Speed ,5,1,P
+162,Torque ,5,1,P
+163,Damping ,5,1,P
+164,Friction ,5,1,P
+165,Relative velocity ,5,1,P
+166,Angular acceleration ,5,1,P
+167,displacement ,5,1,P
+168,frequency ,5,1,P
+169,Line of force ,6,1,P
+170,electric fields ,6,1,P
+171,magnetic fields ,6,1,P
+172,velocity ,6,1,P
+173,Gauss's law ,6,1,P
+174,electric field ,6,1,P
+175,Coulomb's law ,6,1,P
+176,solenoidal vector field ,6,1,P
+177,gravitational field ,6,1,P
+178,electrostatic field ,6,1,P
+179,Damping ,7,1,P
+180,Displacement ,7,1,P
+181,Friction ,7,1,P
+182,Relative velocity ,7,1,P
+183,Euler's equations ,7,1,P
+184,Simple harmonic motion ,7,1,P
+185,Rotational speed ,7,1,P
+186,Angular acceleration ,7,1,P
+187,displacement ,7,1,P
+188,frequency ,7,1,P
+189,work ,8,1,P
+190,charge ,8,1,P
+191,electrostatics ,8,1,P
+192,electric potential energy ,8,1,P
+193,electric field ,8,1,P
+194,electrodynamics ,8,1,P
+195,force ,8,1,P
+196,mass ,8,1,P
+197,electric charge ,8,1,P
+198,Electrostatics ,8,1,P
+199,Gauss's law ,8,1,P
+200,potential energy ,8,1,P
+201,Faraday's law ,8,1,P
+202,voltmeter ,8,1,P
+203,Coulomb's law ,9,1,P
+204,Electric charge ,9,1,P
+205,Electric dipole moment ,9,1,P
+206,Electric field ,9,1,P
+207,Electric flux ,9,1,P
+208,potential energy ,9,1,P
+209,Electrostatic discharge ,9,1,P
+210,Gauss's law ,9,1,P
+211,Induction ,9,1,P
+212,Insulator ,9,1,P
+213,Polarization density ,9,1,P
+214,Electrodynamics ,9,1,P
+215,Lenz's law ,9,1,P
+216,Displacement current ,9,1,P
+217,Magnetic vector potential ,9,1,P
+218,Electromagnetic field ,9,1,P
+219,Eddy current ,9,1,P
+220,Acceleration ,10,1,P
+221,Force ,10,1,P
+222,Mass ,10,1,P
+223,Space ,10,1,P
+224,Friction ,10,1,P
+225,Relative velocity ,10,1,P
+226,frequency ,10,1,P
+227,velocity ,10,1,P
+228,Theory of relativity ,10,1,P
+229,Gravitoelectromagnetism ,10,1,P
+230,Kepler problem ,10,1,P
+231,Redshift ,10,1,P
+232,Blueshift ,10,1,P
+233,Time dilation ,10,1,P
+234,Gravitational potential ,10,1,P
+235,Event horizon ,10,1,P
+236,Gravitational singularity ,10,1,P
+237,Black hole ,10,1,P
+238,Ampère's law ,11,1,P
+239,Biot–Savart law ,11,1,P
+240,Electromagnetic induction ,11,1,P
+241,Faraday's law ,11,1,P
+242,Displacement current ,11,1,P
+243,Electromagnetic field ,11,1,P
+244,Alternating current ,11,1,P
+245,Electric current ,11,1,P
+246,Electric potential ,11,1,P
+247,Resistance ,11,1,P
+248,Voltage ,11,1,P
+249,Acceleration ,12,1,P
+250,Angular momentum ,12,1,P
+251,Couple ,12,1,P
+252,D'Alembert's principle ,12,1,P
+253,Energy ,12,1,P
+254,Impulse ,12,1,P
+255,Moment of inertia ,12,1,P
+256,Mass ,12,1,P
+257,Mechanical power ,12,1,P
+258,Time ,12,1,P
+259,Torque ,12,1,P
+260,Velocity ,12,1,P
+261,Damping ,12,1,P
+262,Displacement ,12,1,P
+263,Equations of motion ,12,1,P
+264,Motion ,12,1,P
+265,Euler's equations ,12,1,P
+266,Simple harmonic motion ,12,1,P
+267,Electrostatics ,13,1,P
+268,Coulomb's law ,13,1,P
+269,Electric charge ,13,1,P
+270,Electric flux ,13,1,P
+271,potential energy ,13,1,P
+272,Magnetization ,13,1,P
+273,Magnetomotive force ,13,1,P
+274,Alternating current ,13,1,P
+275,Capacitance ,13,1,P
+276,Direct current ,13,1,P
+277,Electric current ,13,1,P
+278,Electric potential ,13,1,P
+279,Electromotive force ,13,1,P
+280,Impedance ,13,1,P
+281,Inductance ,13,1,P
+282,Acceleration ,14,1,P
+283,Angular momentum ,14,1,P
+284,Force ,14,1,P
+285,Impulse ,14,1,P
+286,Moment of inertia ,14,1,P
+287,Mass ,14,1,P
+288,Momentum ,14,1,P
+289,Time ,14,1,P
+290,Torque ,14,1,P
+291,Velocity ,14,1,P
+292,Displacement ,14,1,P
+293,Friction ,14,1,P
+294,Relative velocity ,14,1,P
+295,Acceleration ,15,1,P
+296,Energy ,15,1,P
+297,Impulse ,15,1,P
+298,Moment of inertia ,15,1,P
+299,Mechanical work ,15,1,P
+300,Momentum ,15,1,P
+301,Speed ,15,1,P
+302,Angular acceleration ,15,1,P
+303,displacement ,15,1,P
+304,frequency ,15,1,P
+305,velocity ,15,1,P
+306,acceleration ,1,2,P
+307,Newton's second law of motion ,1,2,P
+308,angular acceleration ,1,2,P
+309,torque ,1,2,P
+310,moment of inertia ,1,2,P
+311,couple ,1,2,P
+312,Center of mass ,1,2,P
+313,Charge ,2,2,P
+314,Charge (physics) ,2,2,P
+315,Electric charge ,2,2,P
+316,Magnetic charge ,2,2,P
+317,Charger (disambiguation) ,2,2,P
+318,Supercharge (disambiguation) ,2,2,P
+319,disambiguation ,2,2,P
+320,Newton's laws of motion ,3,2,P
+321,Damping ,3,2,P
+322,Displacement ,3,2,P
+323,Fictitious force ,3,2,P
+324,Friction ,3,2,P
+325,Newton's law of universal gravitation ,3,2,P
+326,Relative velocity ,3,2,P
+327,Angular acceleration ,3,2,P
+328,displacement ,3,2,P
+329,frequency ,3,2,P
+330,Electrostatics ,4,2,P
+331,Coulomb's law ,4,2,P
+332,Electric charge ,4,2,P
+333,Electric field ,4,2,P
+334,Electric flux ,4,2,P
+335,potential energy ,4,2,P
+336,Electrostatic discharge ,4,2,P
+337,Induction ,4,2,P
+338,Insulator ,4,2,P
+339,Electric current ,4,2,P
+340,Inductance ,4,2,P
+341,Ohm's law ,4,2,P
+342,Resistance ,4,2,P
+343,Electric field ,5,2,P
+344,Electric flux ,5,2,P
+345,potential energy ,5,2,P
+346,Gauss's law ,5,2,P
+347,Magnetic dipole moment ,5,2,P
+348,Magnetic scalar potential ,5,2,P
+349,Magnetization ,5,2,P
+350,Magnetomotive force ,5,2,P
+351,Electrodynamics ,5,2,P
+352,Lorentz force law ,5,2,P
+353,Electrical network ,5,2,P
+354,Alternating current ,5,2,P
+355,Electromotive force ,5,2,P
+356,Resistance ,5,2,P
+357,magnetic field ,6,2,P
+358,magnetic monopoles ,6,2,P
+359,electric current ,6,2,P
+360,solenoid ,6,2,P
+361,magnetic moment ,6,2,P
+362,electric dipole ,6,2,P
+363,magnetic monopole ,6,2,P
+364,electric charge ,6,2,P
+365,magnetization ,6,2,P
+366,motion ,8,2,P
+367,scalar potential ,8,2,P
+368,gravitational potential ,8,2,P
+369,electric potential ,8,2,P
+370,thermodynamics ,8,2,P
+371,Potential difference ,8,2,P
+372,Potential energy ,8,2,P
+373,Thermal radiation ,9,2,P
+374,work ,9,2,P
+375,Boltzmann constant ,9,2,P
+376,thermodynamics ,9,2,P
+377,energy ,9,2,P
+378,absolute temperature ,9,2,P
+379,latent heat ,9,2,P
+380,potential energy ,9,2,P
+381,Mass ,9,2,P
+382,Power ,9,2,P
+383,Laws of thermodynamics ,9,2,P
+384,Heat capacity ,9,2,P
+385,Latent heat ,9,2,P
+386,Electricity ,9,2,P
+387,Acceleration ,11,2,P
+388,Angular momentum ,11,2,P
+389,Force ,11,2,P
+390,Mass ,11,2,P
+391,Mechanical power ,11,2,P
+392,Moment ,11,2,P
+393,Torque ,11,2,P
+394,Velocity ,11,2,P
+395,Damping ,11,2,P
+396,Displacement ,11,2,P
+397,Angular acceleration ,11,2,P
+398,displacement ,11,2,P
+399,frequency ,11,2,P
+400,wave ,12,2,P
+401,absolute value ,12,2,P
+402,phase velocity ,12,2,P
+403,group velocity ,12,2,P
+404,signal velocity ,12,2,P
+405,front velocity ,12,2,P
+406,Electrostatics ,13,2,P
+407,Coulomb's law ,13,2,P
+408,Electric dipole moment ,13,2,P
+409,Displacement current ,13,2,P
+410,Magnetic vector potential ,13,2,P
+411,Maxwell's equations ,13,2,P
+412,Electromagnetic field ,13,2,P
+413,Electromagnetic radiation ,13,2,P
+414,Eddy current ,13,2,P
+415,Alternating current ,13,2,P
+416,Capacitance ,13,2,P
+417,Direct current ,13,2,P
+418,Electric current ,13,2,P
+419,Impedance ,13,2,P
+420,Inductance ,13,2,P
+421,Resistance ,13,2,P
+422,Electromagnetic tensor ,13,2,P
+423,Space ,14,2,P
+424,Time ,14,2,P
+425,Energy ,14,2,P
+426,Matter ,14,2,P
+427,Work ,14,2,P
+428,Entropy ,14,2,P
+429,Particle ,14,2,P
+430,Wave ,14,2,P
+431,Quantum mechanics ,14,2,P
+432,Quantum field theory ,14,2,P
+433,Electromagnetism ,14,2,P
+434,General relativity ,14,2,P
+435,Astrophysics ,14,2,P
+436,Cosmology ,14,2,P
+437,Elementary particle ,15,2,P
+438,Gravity ,15,2,P
+439,electromagnetic ,15,2,P
+440,Positron ,15,2,P
+441,Mass ,15,2,P
+442,Electric charge ,15,2,P
+443,Magnetic moment ,15,2,P
+444,Quantum mechanical ,15,2,P
+445,antiparticle ,15,2,P
+446,positron ,15,2,P
+447,ion ,15,2,P
+448,potential energy ,1,3,P
+449,kinetic energy ,1,3,P
+450,elastic collisions ,1,3,P
+451,thermal energy ,1,3,P
+452,dissipation ,1,3,P
+453,work ,1,3,P
+454,friction ,1,3,P
+455,gravitational force ,1,3,P
+456,heat energy ,1,3,P
+457,electromagnetism ,1,3,P
+458,Mass ,1,3,P
+459,Power ,1,3,P
+460,Heat capacity ,1,3,P
+461,Entropy ,1,3,P
+462,Work ,1,3,P
+463,Electric potential energy ,1,3,P
+464,Ampère's law ,2,3,P
+465,Magnetic dipole moment ,2,3,P
+466,Magnetization ,2,3,P
+467,Electrodynamics ,2,3,P
+468,Electromagnetic radiation ,2,3,P
+469,Eddy current ,2,3,P
+470,Electrical network ,2,3,P
+471,Electric current ,2,3,P
+472,Inductance ,2,3,P
+473,Ohm's law ,2,3,P
+474,Resistance ,2,3,P
+475,Voltage ,2,3,P
+476,quantum mechanics ,3,3,P
+477,fermions ,3,3,P
+478,conduction band ,3,3,P
+479,Fermi level ,3,3,P
+480,electrochemical potential ,3,3,P
+481,kinetic energy ,3,3,P
+482,quantum state ,3,3,P
+483,superconductors ,3,3,P
+484,rest mass ,3,3,P
+485,Planck constant ,3,3,P
+486,Boltzmann constant ,3,3,P
+487,momentum ,3,3,P
+488,Ampère's law ,4,3,P
+489,Electrodynamics ,4,3,P
+490,Faraday's law ,4,3,P
+491,Lenz's law ,4,3,P
+492,Displacement current ,4,3,P
+493,Electrical network ,4,3,P
+494,Alternating current ,4,3,P
+495,Capacitance ,4,3,P
+496,Electric current ,4,3,P
+497,Electric potential ,4,3,P
+498,Electromotive force ,4,3,P
+499,Resistance ,4,3,P
+500,Voltage ,4,3,P
+501,Classical mechanics ,5,3,P
+502,Hamiltonian ,5,3,P
+503,Interference ,5,3,P
+504,Coherence ,5,3,P
+505,Uncertainty principle ,5,3,P
+506,Ground state ,5,3,P
+507,Quantum ,5,3,P
+508,Superposition ,5,3,P
+509,Vacuum state ,5,3,P
+510,Wave propagation ,5,3,P
+511,Wave function ,5,3,P
+512,Matter wave ,5,3,P
+513,Photoelectric effect ,5,3,P
+514,Phase-space ,5,3,P
+515,Electrostatics ,6,3,P
+516,Electric charge ,6,3,P
+517,Electric dipole moment ,6,3,P
+518,Electric field ,6,3,P
+519,Gauss's law ,6,3,P
+520,Induction ,6,3,P
+521,Insulator ,6,3,P
+522,Polarization density ,6,3,P
+523,Alternating current ,6,3,P
+524,Capacitance ,6,3,P
+525,Acceleration ,7,3,P
+526,Angular momentum ,7,3,P
+527,Force ,7,3,P
+528,Mechanical power ,7,3,P
+529,Mechanical work ,7,3,P
+530,Moment ,7,3,P
+531,Momentum ,7,3,P
+532,Torque ,7,3,P
+533,Velocity ,7,3,P
+534,Motion ,7,3,P
+535,Quantum thermodynamics ,8,3,P
+536,Equilibrium ,8,3,P
+537,State of matter ,8,3,P
+538,Thermal efficiency ,8,3,P
+539,Work ,8,3,P
+540,Heat ,8,3,P
+541,Temperature ,8,3,P
+542,Entropy ,8,3,P
+543,Pressure ,8,3,P
+544,Volume ,8,3,P
+545,electrostatic potential energy ,9,3,P
+546,Maxwell's equations ,9,3,P
+547,torque ,9,3,P
+548,magnetic dipole moment ,9,3,P
+549,inductance ,9,3,P
+550,permeability ,9,3,P
+551,Energy ,9,3,P
+552,Mass ,9,3,P
+553,Power ,9,3,P
+554,Thermodynamics ,9,3,P
+555,Entropy ,9,3,P
+556,Work ,9,3,P
+557,Enthalpy ,9,3,P
+558,Electric potential energy ,9,3,P
+559,Heat ,9,3,P
+560,Electricity ,9,3,P
+561,Acceleration ,10,3,P
+562,Energy ,10,3,P
+563,Force ,10,3,P
+564,Impulse ,10,3,P
+565,Inertia ,10,3,P
+566,Mass ,10,3,P
+567,Momentum ,10,3,P
+568,Torque ,10,3,P
+569,Velocity ,10,3,P
+570,Displacement ,10,3,P
+571,Friction ,10,3,P
+572,flux ,11,3,P
+573,gravitational field ,11,3,P
+574,Gauss's law ,11,3,P
+575,Gauss's law for magnetism ,11,3,P
+576,Gauss's law for gravity ,11,3,P
+577,gravitational mass ,11,3,P
+578,electric charge ,11,3,P
+579,electric field ,11,3,P
+580,charge density ,11,3,P
+581,divergence theorem ,11,3,P
+582,Coulomb's law ,11,3,P
+583,energy ,12,3,P
+584,pressure ,12,3,P
+585,enthalpy ,12,3,P
+586,pressure gradient ,12,3,P
+587,work ,12,3,P
+588,exergy ,12,3,P
+589,Gibbs free energy ,12,3,P
+590,heat ,12,3,P
+591,heat of combustion ,12,3,P
+592,kinetic energy ,12,3,P
+593,nuclear fission ,12,3,P
+594,fusion ,12,3,P
+595,electric charge ,13,3,P
+596,surface charge density ,13,3,P
+597,electric potential ,13,3,P
+598,electric field ,13,3,P
+599,Point Charge ,13,3,P
+600,electrical conductivity ,13,3,P
+601,dielectric ,13,3,P
+602,polarization density ,13,3,P
+603,adsorption ,13,3,P
+604,Dissociation ,13,3,P
+605,Acceleration ,14,3,P
+606,Angular momentum ,14,3,P
+607,Couple ,14,3,P
+608,D'Alembert's principle ,14,3,P
+609,Energy ,14,3,P
+610,Impulse ,14,3,P
+611,Inertia ,14,3,P
+612,Mass ,14,3,P
+613,Moment ,14,3,P
+614,Momentum ,14,3,P
+615,Speed ,14,3,P
+616,Time ,14,3,P
+617,Torque ,14,3,P
+618,Velocity ,14,3,P
+619,Damping ,14,3,P
+620,Displacement ,14,3,P
+621,Magnetostatics ,15,3,P
+622,Ampère's law ,15,3,P
+623,Biot–Savart law ,15,3,P
+624,Gauss's law for magnetism ,15,3,P
+625,Magnetic field ,15,3,P
+626,Magnetic flux ,15,3,P
+627,Magnetic dipole moment ,15,3,P
+628,Magnetic scalar potential ,15,3,P
+629,Magnetization ,15,3,P
+630,Magnetomotive force ,15,3,P
+631,Electrodynamics ,15,3,P
+632,Lorentz force law ,15,3,P
+633,Electromagnetic induction ,15,3,P
+634,Faraday's law ,15,3,P
+635,acoustic wave ,1,4,P
+636,transmission medium ,1,4,P
+637,Oscillation ,1,4,P
+638,frequency ,1,4,P
+639,longitudinal waves ,1,4,P
+640,transverse wave ,1,4,P
+641,velocity ,1,4,P
+642,density ,1,4,P
+643,vacuum ,1,4,P
+644,compression ,1,4,P
+645,Energy ,2,4,P
+646,Impulse ,2,4,P
+647,Inertia ,2,4,P
+648,Moment of inertia ,2,4,P
+649,Mass ,2,4,P
+650,Mechanical power ,2,4,P
+651,Moment ,2,4,P
+652,Momentum ,2,4,P
+653,Speed ,2,4,P
+654,Time ,2,4,P
+655,Torque ,2,4,P
+656,Velocity ,2,4,P
+657,displacement ,2,4,P
+658,frequency ,2,4,P
+659,work ,3,4,P
+660,energy ,3,4,P
+661,electric potential ,3,4,P
+662,mass ,3,4,P
+663,charge ,3,4,P
+664,Newtonian potential ,3,4,P
+665,potential theory ,3,4,P
+666,Gravitational potential energy ,3,4,P
+667,potential energy ,3,4,P
+668,gravitational acceleration ,3,4,P
+669,gravitational constant ,3,4,P
+670,gradient ,3,4,P
+671,Acceleration ,4,4,P
+672,Angular momentum ,4,4,P
+673,Couple ,4,4,P
+674,Energy ,4,4,P
+675,Inertia ,4,4,P
+676,Moment of inertia ,4,4,P
+677,Mass ,4,4,P
+678,Momentum ,4,4,P
+679,Time ,4,4,P
+680,Torque ,4,4,P
+681,Velocity ,4,4,P
+682,electromagnetism ,5,4,P
+683,Probability current ,5,4,P
+684,electric current ,5,4,P
+685,charge density ,5,4,P
+686,flux ,5,4,P
+687,area ,5,4,P
+688,electrical conductor ,5,4,P
+689,Moore's law ,5,4,P
+690,resistance ,5,4,P
+691,power ,5,4,P
+692,superconductors ,5,4,P
+693,Ampère's circuital law ,5,4,P
+694,Maxwell's equations ,5,4,P
+695,magnetic field ,5,4,P
+696,charge ,5,4,P
+697,drift velocity ,5,4,P
+698,electric field ,5,4,P
+699,electrical conductivity ,5,4,P
+700,Damping ,6,4,P
+701,Displacement ,6,4,P
+702,Friction ,6,4,P
+703,Motion ,6,4,P
+704,Relative velocity ,6,4,P
+705,Angular acceleration ,6,4,P
+706,displacement ,6,4,P
+707,frequency ,6,4,P
+708,velocity ,6,4,P
+709,Isotopes ,7,4,P
+710,Isobars ,7,4,P
+711,Isotones ,7,4,P
+712,Isomers ,7,4,P
+713,Binding energy ,7,4,P
+714,Spontaneous fission ,7,4,P
+715,Decay energy ,7,4,P
+716,Nuclear fission ,7,4,P
+717,Mass ,8,4,P
+718,Momentum ,8,4,P
+719,Energy ,8,4,P
+720,Fluid mechanics ,8,4,P
+721,Archimedes' principle ,8,4,P
+722,Bernoulli's principle ,8,4,P
+723,Pascal's law ,8,4,P
+724,Viscosity ,8,4,P
+725,Newtonian ,8,4,P
+726,Buoyancy ,8,4,P
+727,Pressure ,8,4,P
+728,Surface tension ,8,4,P
+729,Viscoelasticity ,8,4,P
+730,Deformation ,8,4,P
+731,Elasticity ,8,4,P
+732,linear ,8,4,P
+733,Plasticity ,8,4,P
+734,Stress ,8,4,P
+735,electric charge ,9,4,P
+736,ion ,9,4,P
+737,neutrons ,9,4,P
+738,photons ,9,4,P
+739,neutrinos ,9,4,P
+740,neutral pions ,9,4,P
+741,Acceleration ,10,4,P
+742,Angular momentum ,10,4,P
+743,Energy ,10,4,P
+744,Moment of inertia ,10,4,P
+745,Mass ,10,4,P
+746,Momentum ,10,4,P
+747,Speed ,10,4,P
+748,Time ,10,4,P
+749,Velocity ,10,4,P
+750,Damping ,10,4,P
+751,Displacement ,10,4,P
+752,Newton's laws of motion ,11,4,P
+753,Damping ,11,4,P
+754,Displacement ,11,4,P
+755,Euler's laws of motion ,11,4,P
+756,Fictitious force ,11,4,P
+757,Friction ,11,4,P
+758,Motion ,11,4,P
+759,Centripetal force ,11,4,P
+760,Centrifugal force ,11,4,P
+761,Angular acceleration ,11,4,P
+762,displacement ,11,4,P
+763,frequency ,11,4,P
+764,velocity ,11,4,P
+765,Interference ,12,4,P
+766,Quantum Zeno effect ,12,4,P
+767,Quantum tunnelling ,12,4,P
+768,Photoelectric effect ,12,4,P
+769,Heisenberg ,12,4,P
+770,Phase-space ,12,4,P
+771,Stochastic ,12,4,P
+772,Fractional quantum mechanics ,12,4,P
+773,Quantum gravity ,12,4,P
+774,Quantum mechanics ,12,4,P
+775,physics ,13,4,P
+776,linear time-invariant ,13,4,P
+777,step response ,13,4,P
+778,impulse response ,13,4,P
+779,Fourier transform ,13,4,P
+780,bandwidth ,13,4,P
+781,decay constant ,13,4,P
+782,exponential decay ,13,4,P
+783,Heaviside step function ,13,4,P
+784,impulse function ,13,4,P
+785, ,13,4,P
+786,Euler's formula ,13,4,P
+787,resistance ,13,4,P
+788,inductance ,13,4,P
+789,Electric dipole moment ,14,4,P
+790,Transition dipole moment ,14,4,P
+791,Molecular dipole moment ,14,4,P
+792,Bond dipole moment ,14,4,P
+793,Electron electric dipole moment ,14,4,P
+794,Magnetic dipole moment ,14,4,P
+795,Electron magnetic moment ,14,4,P
+796,Nuclear magnetic moment ,14,4,P
+797,topological defect ,14,4,P
+798,multipole expansion ,14,4,P
+799,dielectric constant ,14,4,P
+800,Dipole (disambiguation) ,14,4,P
+801,Moment (disambiguation) ,14,4,P
+802,Quantum thermodynamics ,15,4,P
+803,Equilibrium ,15,4,P
+804,Isobaric ,15,4,P
+805,Isochoric ,15,4,P
+806,Isothermal ,15,4,P
+807,Adiabatic ,15,4,P
+808,Quasistatic ,15,4,P
+809,Polytropic ,15,4,P
+810,Free expansion ,15,4,P
+811,Heat engines ,15,4,P
+812,Heat pumps ,15,4,P
+813,Thermal efficiency ,15,4,P
+814,Work ,15,4,P
+815,Heat ,15,4,P
+816,Entropy ,15,4,P
+817,Pressure ,15,4,P
+818,Volume ,15,4,P
+819,energy ,1,5,P
+820,momentum ,1,5,P
+821,Lorentz transformations ,1,5,P
+822,relativistic mass ,1,5,P
+823,speed of light ,1,5,P
+824,velocity ,1,5,P
+825,mass ,1,5,P
+826,special relativity ,1,5,P
+827,missing energy ,1,5,P
+828,Transverse mass ,1,5,P
+829,mathematics ,2,5,P
+830,periodic function ,2,5,P
+831,amplitude ,2,5,P
+832,waveform ,2,5,P
+833,superposition principle ,2,5,P
+834,constructive interference ,2,5,P
+835,destructive interference ,2,5,P
+836,Phase velocity ,2,5,P
+837,Phasor ,2,5,P
+838,Polarization ,2,5,P
+839,Coherence ,2,5,P
+840,Damping ,3,5,P
+841,Displacement ,3,5,P
+842,Fictitious force ,3,5,P
+843,Friction ,3,5,P
+844,Harmonic oscillator ,3,5,P
+845,Motion ,3,5,P
+846,Relative velocity ,3,5,P
+847,Rigid body ,3,5,P
+848,Rotating reference frame ,3,5,P
+849,Angular acceleration ,3,5,P
+850,displacement ,3,5,P
+851,frequency ,3,5,P
+852,velocity ,3,5,P
+853,sine wave ,4,5,P
+854,phase ,5,5,P
+855,interference ,4,5,P
+856,frequency ,4,5,P
+857,sound waves ,4,5,P
+858,light ,4,5,P
+859,pressure ,4,5,P
+860,electromagnetic radiation ,4,5,P
+861,magnetic field ,4,5,P
+862,spectrum ,4,5,P
+863,phase velocity ,4,5,P
+864,dispersive medium ,4,5,P
+865,angular frequency ,4,5,P
+866,Wave function ,5,5,P
+867,pulse ,5,5,P
+868,waves ,5,5,P
+869,mechanical waves ,5,5,P
+870,electromagnetics ,5,5,P
+871,pressure ,5,5,P
+872,displacement ,5,5,P
+873,superposition principle ,5,5,P
+874,tension ,5,5,P
+875,Hooke's Law ,5,5,P
+876,Fourier transform ,5,5,P
+877,Huygens' principle ,5,5,P
+878,Isobaric ,6,5,P
+879,Isochoric ,6,5,P
+880,Isothermal ,6,5,P
+881,Adiabatic ,6,5,P
+882,Quasistatic ,6,5,P
+883,Polytropic ,6,5,P
+884,Free expansion ,6,5,P
+885,Reversibility ,6,5,P
+886,Work ,6,5,P
+887,Heat ,6,5,P
+888,Electrostatics ,7,5,P
+889,Coulomb's law ,7,5,P
+890,Electric charge ,7,5,P
+891,Electric dipole moment ,7,5,P
+892,Electric flux ,7,5,P
+893,potential energy ,7,5,P
+894,Electrostatic discharge ,7,5,P
+895,Magnetic flux ,7,5,P
+896,Magnetic scalar potential ,7,5,P
+897,Magnetization ,7,5,P
+898,Magnetomotive force ,7,5,P
+899,Electrical network ,7,5,P
+900,Alternating current ,7,5,P
+901,Interference ,8,5,P
+902,Coherence ,8,5,P
+903,Uncertainty principle ,8,5,P
+904,Vacuum state ,8,5,P
+905,Wave propagation ,8,5,P
+906,equilibrium ,9,5,P
+907,Fermi level ,9,5,P
+908,insulators ,9,5,P
+909,semiconductors ,9,5,P
+910,valence band ,9,5,P
+911,electrical conductivity ,9,5,P
+912,electrical conduction ,9,5,P
+913,semiconductor ,9,5,P
+914,charge carriers ,9,5,P
+915,electric field ,9,5,P
+916,Electrical conduction ,9,5,P
+917,mass ,10,5,P
+918,volume ,10,5,P
+919,weight ,10,5,P
+920,buoyancy ,10,5,P
+921,thermodynamics ,10,5,P
+922,displacement ,10,5,P
+923,pressure ,10,5,P
+924,temperature ,10,5,P
+925,compressibility ,10,5,P
+926,thermal expansivity ,10,5,P
+927,molar mass ,10,5,P
+928,Electrostatics ,11,5,P
+929,Conductor ,11,5,P
+930,Coulomb's law ,11,5,P
+931,Electric charge ,11,5,P
+932,Electric dipole moment ,11,5,P
+933,Electric field ,11,5,P
+934,Electric flux ,11,5,P
+935,potential energy ,11,5,P
+936,Electrostatic discharge ,11,5,P
+937,Gauss's law ,11,5,P
+938,Induction ,11,5,P
+939,Insulator ,11,5,P
+940,wave ,12,5,P
+941,frequency ,12,5,P
+942,wave vector ,12,5,P
+943,X-ray diffraction ,12,5,P
+944,quantum mechanical ,12,5,P
+945,Planck's constant ,12,5,P
+946,canonical momentum ,12,5,P
+947,speed of light ,12,5,P
+948,wavelengths ,12,5,P
+949,permittivity ,12,5,P
+950,permeability ,12,5,P
+951,refraction index ,12,5,P
+952,angular frequency ,12,5,P
+953,phase velocity ,12,5,P
+954,momentum ,12,5,P
+955,mass ,12,5,P
+956,energy ,13,5,P
+957,photon ,13,5,P
+958,electromagnetic ,13,5,P
+959,frequency ,13,5,P
+960,wavelength ,13,5,P
+961,electromagnetic spectrum ,13,5,P
+962,Planck constant ,13,5,P
+963,Acceleration ,14,5,P
+964,Angular momentum ,14,5,P
+965,Force ,14,5,P
+966,Moment of inertia ,14,5,P
+967,Mass ,14,5,P
+968,Mechanical power ,14,5,P
+969,Moment ,14,5,P
+970,Momentum ,14,5,P
+971,Time ,14,5,P
+972,Velocity ,14,5,P
+973,Displacement ,14,5,P
+974,Friction ,14,5,P
+975,Motion ,14,5,P
+976,Magnetostatics ,15,5,P
+977,Ampère's law ,15,5,P
+978,Magnetic field ,15,5,P
+979,Magnetic flux ,15,5,P
+980,Magnetic dipole moment ,15,5,P
+981,Magnetization ,15,5,P
+982,Magnetomotive force ,15,5,P
+983,Electrodynamics ,15,5,P
+984,Displacement current ,15,5,P
+985,Magnetic vector potential ,15,5,P
+986,Electromagnetic field ,15,5,P
+987,Alternating current ,15,5,P
+988,Capacitance ,15,5,P
+989,Electric current ,15,5,P
+990,Electric potential ,15,5,P
+991,Electromotive force ,15,5,P
+992,mass ,1,6,P
+993,electron ,1,6,P
+994,invariant mass ,1,6,P
+995,daltons ,1,6,P
+996,energy ,1,6,P
+997,special relativity ,1,6,P
+998,Lorentz factor ,1,6,P
+999,Planck constant ,1,6,P
+1000,Avogadro constant ,1,6,P
+1001,atomic mass constant ,1,6,P
+1002,molar mass constant ,1,6,P
+1003,Alpha decay ,2,6,P
+1004,Composition ,2,6,P
+1005,Mass ,2,6,P
+1006,speed of light ,2,6,P
+1007,ionizing ,2,6,P
+1008,isotopes ,2,6,P
+1009,atom ,2,6,P
+1010,mass number ,2,6,P
+1011,Nuclear shell model ,3,6,P
+1012,Isotopes ,3,6,P
+1013,Isobars ,3,6,P
+1014,Isotones ,3,6,P
+1015,Isomers ,3,6,P
+1016,Drip line ,3,6,P
+1017,Valley of stability ,3,6,P
+1018,Radioactive decay ,3,6,P
+1019,Decay energy ,3,6,P
+1020,Nuclear fission ,3,6,P
+1021,Photofission ,3,6,P
+1022,sound ,4,6,P
+1023,radio waves ,4,6,P
+1024,light ,4,6,P
+1025,wave ,4,6,P
+1026,oscillations ,4,6,P
+1027,waves ,4,6,P
+1028,optics ,4,6,P
+1029,Planck's formula ,4,6,P
+1030,angular displacement ,4,6,P
+1031,phase ,4,6,P
+1032,Wave propagation ,4,6,P
+1033,wavelength ,4,6,P
+1034,phase velocity ,4,6,P
+1035,Acceleration ,5,6,P
+1036,Angular momentum ,5,6,P
+1037,Force ,5,6,P
+1038,Impulse ,5,6,P
+1039,Inertia ,5,6,P
+1040,Moment of inertia ,5,6,P
+1041,Mass ,5,6,P
+1042,Momentum ,5,6,P
+1043,Space ,5,6,P
+1044,Speed ,5,6,P
+1045,Time ,5,6,P
+1046,Torque ,5,6,P
+1047,Velocity ,5,6,P
+1048,phonons ,6,6,P
+1049,volume ,6,6,P
+1050,gases ,6,6,P
+1051,liquids ,6,6,P
+1052,solids ,6,6,P
+1053,mass ,6,6,P
+1054,electric charge ,6,6,P
+1055,Avogadro constant ,6,6,P
+1056,molar mass ,6,6,P
+1057,kg ,6,6,P
+1058,mass density ,6,6,P
+1059,Harmonic oscillator ,7,6,P
+1060,Simple harmonic motion ,7,6,P
+1061,Keplers laws of planetary motion ,7,6,P
+1062,Pendulum ,7,6,P
+1063,Harmonograph ,7,6,P
+1064,Interference ,8,6,P
+1065,Coherence ,8,6,P
+1066,Decoherence ,8,6,P
+1067,Uncertainty principle ,8,6,P
+1068,Ground state ,8,6,P
+1069,Wave propagation ,8,6,P
+1070,Heisenberg ,8,6,P
+1071,Phase-space ,8,6,P
+1072,Schrödinger ,8,6,P
+1073,Dirac ,8,6,P
+1074,Hellmann–Feynman ,8,6,P
+1075,Klein–Gordon ,8,6,P
+1076,Density matrix ,8,6,P
+1077,Quantum field theory ,8,6,P
+1078,Electrostatics ,9,6,P
+1079,Conductor ,9,6,P
+1080,Coulomb's law ,9,6,P
+1081,Electric charge ,9,6,P
+1082,Electric dipole moment ,9,6,P
+1083,Electric field ,9,6,P
+1084,Electric flux ,9,6,P
+1085,potential energy ,9,6,P
+1086,Electrostatic discharge ,9,6,P
+1087,Gauss's law ,9,6,P
+1088,Induction ,9,6,P
+1089,Insulator ,9,6,P
+1090,Electric current ,9,6,P
+1091,Electric potential ,9,6,P
+1092,Electrostatics ,10,6,P
+1093,Electromagnetic induction ,10,6,P
+1094,Faraday's law ,10,6,P
+1095,Lenz's law ,10,6,P
+1096,Displacement current ,10,6,P
+1097,Magnetic vector potential ,10,6,P
+1098,Electromagnetic field ,10,6,P
+1099,Electromagnetic radiation ,10,6,P
+1100,Maxwell tensor ,10,6,P
+1101,Liénard–Wiechert potential ,10,6,P
+1102,Eddy current ,10,6,P
+1103,Interference ,11,6,P
+1104,Coherence ,11,6,P
+1105,Decoherence ,11,6,P
+1106,Uncertainty principle ,11,6,P
+1107,Superposition ,11,6,P
+1108,Wave propagation ,11,6,P
+1109,Wave function ,11,6,P
+1110,Matter wave ,11,6,P
+1111,Zeeman effect ,11,6,P
+1112,Stark effect ,11,6,P
+1113,Aharonov–Bohm effect ,11,6,P
+1114,Landau quantization ,11,6,P
+1115,Schrödinger's cat ,11,6,P
+1116,electric charge ,12,6,P
+1117,electrical conductors ,12,6,P
+1118,electrons ,12,6,P
+1119,ions ,12,6,P
+1120,electric field ,12,6,P
+1121,electric current ,12,6,P
+1122,cathode ,12,6,P
+1123,thermionic emission ,12,6,P
+1124,valence band ,12,6,P
+1125,current ,12,6,P
+1126,n-type semiconductors ,12,6,P
+1127,p-type semiconductors ,12,6,P
+1128,intrinsic semiconductor ,12,6,P
+1129,capacitance ,13,6,P
+1130,electrical energy ,13,6,P
+1131,electric field ,13,6,P
+1132,circuit ,13,6,P
+1133,dielectric ,13,6,P
+1134,electrolyte ,13,6,P
+1135,resistor ,13,6,P
+1136,electric potential ,13,6,P
+1137,voltage ,13,6,P
+1138,charge ,13,6,P
+1139,alternating current ,13,6,P
+1140,energy density,13,6,P
+1141,Quantum thermodynamics ,14,6,P
+1142,Equilibrium ,14,6,P
+1143,Isobaric ,14,6,P
+1144,Isochoric ,14,6,P
+1145,Isothermal ,14,6,P
+1146,Adiabatic ,14,6,P
+1147,Polytropic ,14,6,P
+1148,Thermal efficiency ,14,6,P
+1149,Work ,14,6,P
+1150,Heat ,14,6,P
+1151,Temperature ,14,6,P
+1152,Entropy ,14,6,P
+1153,Volume ,14,6,P
+1154,Enthalpy ,14,6,P
+1155,Gibbs free energy ,14,6,P
+1156,Loschmidt's paradox ,14,6,P
+1157,Mass ,14,6,P
+1158,Momentum ,14,6,P
+1159,Energy ,14,6,P
+1160,electromagnetism ,15,6,P
+1161,electric dipole ,15,6,P
+1162,electromagnetic ,15,6,P
+1163,electric charges ,15,6,P
+1164,magnetic dipole ,15,6,P
+1165,electric current ,15,6,P
+1166,magnetic field ,15,6,P
+1167,capacitor ,15,6,P
+1168,polarizability ,15,6,P
+1169,charge ,15,6,P
+1170,forces ,15,6,P
+1171,torque ,15,6,P
+1172,Extreme value theory ,1,7,P
+1173,Extreme value theorem ,1,7,P
+1174,set theory ,1,7,P
+1175,Fermat's theorem ,1,7,P
+1176,Extrema (calculus) ,1,7,P
+1177,Vector (disambiguation) ,2,7,P
+1178,mathematics ,2,7,P
+1179,length ,2,7,P
+1180,distributivity ,2,7,P
+1181,Euclidean ,2,7,P
+1182,velocity ,2,7,P
+1183,acceleration ,2,7,P
+1184,forces ,2,7,P
+1185,displacement ,2,7,P
+1186,Mass number ,3,7,P
+1187,mass ,3,7,P
+1188,moles ,3,7,P
+1189,isotopes ,3,7,P
+1190,monomer ,3,7,P
+1191,mole fractions ,3,7,P
+1192,Mole ,3,7,P
+1193,Avogadro constant ,3,7,P
+1194,Boltzmann constant ,3,7,P
+1195,Molality ,3,7,P
+1196,Mass ,3,7,P
+1197,Volume ,3,7,P
+1198,Density ,3,7,P
+1199,Mole fraction ,3,7,P
+1200,Atomic mass ,3,7,P
+1201,Isobaric ,4,7,P
+1202,Isochoric ,4,7,P
+1203,Isothermal ,4,7,P
+1204,Adiabatic ,4,7,P
+1205,Isentropic ,4,7,P
+1206,Work ,4,7,P
+1207,Functions of state ,4,7,P
+1208,Temperature ,4,7,P
+1209,Entropy ,4,7,P
+1210,Pressure ,4,7,P
+1211,Compressibility ,4,7,P
+1212,Thermal expansion ,4,7,P
+1213,Carnot's theorem ,4,7,P
+1214,Clausius theorem ,4,7,P
+1215,Free entropy ,4,7,P
+1216,Internal energy ,4,7,P
+1217,Enthalpy ,4,7,P
+1218,Helmholtz free energy ,4,7,P
+1219,Gibbs free energy ,4,7,P
+1220,Incident Light (film) ,5,7,P
+1221,optics ,5,7,P
+1222,light ,5,7,P
+1223,wavefronts ,5,7,P
+1224,wavelength ,5,7,P
+1225,diffraction ,5,7,P
+1226,wave theory ,5,7,P
+1227,interference ,5,7,P
+1228,phase ,5,7,P
+1229,angle of incidence ,5,7,P
+1230,angle of reflection ,5,7,P
+1231,angle of refraction ,5,7,P
+1232,Acceleration ,6,7,P
+1233,Angular momentum ,6,7,P
+1234,Energy ,6,7,P
+1235,Force ,6,7,P
+1236,Frame of reference ,6,7,P
+1237,Inertial frame of reference ,6,7,P
+1238,Moment of inertia ,6,7,P
+1239,Mass ,6,7,P
+1240,Speed ,6,7,P
+1241,Time ,6,7,P
+1242,Torque ,6,7,P
+1243,Velocity ,6,7,P
+1244,Electrostatics ,7,7,P
+1245,Electric dipole moment ,7,7,P
+1246,Induction ,7,7,P
+1247,Insulator ,7,7,P
+1248,Electromagnetic induction ,7,7,P
+1249,Faraday's law ,7,7,P
+1250,Lenz's law ,7,7,P
+1251,Displacement current ,7,7,P
+1252,Magnetic vector potential ,7,7,P
+1253,Maxwell's equations ,7,7,P
+1254,Electromagnetic field ,7,7,P
+1255,Electromagnetic pulse ,7,7,P
+1256,Electromagnetic radiation ,7,7,P
+1257,Electric current ,7,7,P
+1258,Electric potential ,7,7,P
+1259,Electromotive force ,7,7,P
+1260,Impedance ,7,7,P
+1261,Inductance ,7,7,P
+1262,Acceleration ,8,7,P
+1263,Angular momentum ,8,7,P
+1264,Couple ,8,7,P
+1265,D'Alembert's principle ,8,7,P
+1266,Energy ,8,7,P
+1267,Mass ,8,7,P
+1268,Moment ,8,7,P
+1269,Momentum ,8,7,P
+1270,Angular acceleration ,8,7,P
+1271,displacement ,8,7,P
+1272,frequency ,8,7,P
+1273,velocity ,8,7,P
+1274,voltage ,10,7,P
+1275,current ,10,7,P
+1276,resistor ,10,7,P
+1277,Ohm's law ,10,7,P
+1278,mass ,10,7,P
+1279,weight ,10,7,P
+1280,linear function ,10,7,P
+1281,Additivity ,10,7,P
+1282,Homogeneity ,10,7,P
+1283,superposition principle ,10,7,P
+1284,electric potential energy ,11,7,P
+1285,kinetic energy ,11,7,P
+1286,electric current ,11,7,P
+1287,electric potential ,11,7,P
+1288,electrical circuit ,11,7,P
+1289,electric power ,11,7,P
+1290,electricity meter ,11,7,P
+1291,nuclear fission ,11,7,P
+1292,Mass ,11,7,P
+1293,Power ,11,7,P
+1294,Quantum thermodynamics ,11,7,P
+1295,Heat transfer ,11,7,P
+1296,Heat capacity ,11,7,P
+1297,Entropy ,11,7,P
+1298,Electrical circuit ,12,7,P
+1299,Series and parallel circuits ,12,7,P
+1300,LC circuit ,12,7,P
+1301,RC circuit ,12,7,P
+1302,RL circuit ,12,7,P
+1303,RLC circuit ,12,7,P
+1304,Hamiltonian ,13,7,P
+1305,Interference ,13,7,P
+1306,Coherence ,13,7,P
+1307,Decoherence ,13,7,P
+1308,Energy level ,13,7,P
+1309,Uncertainty principle ,13,7,P
+1310,Wave propagation ,13,7,P
+1311,Wave function ,13,7,P
+1312,Wave function collapse ,13,7,P
+1313,Matter wave ,13,7,P
+1314,Zeeman effect ,13,7,P
+1315,Stark effect ,13,7,P
+1316,Aharonov–Bohm effect ,13,7,P
+1317,Landau quantization ,13,7,P
+1318,Amplitude (disambiguation) ,15,7,P
+1319,time ,15,7,P
+1320,phase ,15,7,P
+1321,Wave period ,15,7,P
+1322,oscilloscope ,15,7,P
+1323,AC waveform ,15,7,P
+1324,power ,15,7,P
+1325,electromagnetic wave ,15,7,P
+1326,alternating current ,15,7,P
+1327,electric power ,15,7,P
+1328,waveform ,15,7,P
+1329,sampling ,15,7,P
+1330,refraction ,1,8,P
+1331,diffraction pattern ,1,8,P
+1332,wave ,1,8,P
+1333,Huygens–Fresnel principle ,1,8,P
+1334,wavelength ,1,8,P
+1335,interference ,1,8,P
+1336,reflection ,1,8,P
+1337,diffraction grating ,1,8,P
+1338,wavefunction ,1,8,P
+1339,double-slit experiment ,1,8,P
+1340,Huygens-Fresnel principle ,1,8,P
+1341,Kirchhoff-Fresnel diffraction equation ,1,8,P
+1342,Electrical resistance ,2,8,P
+1343,Friction ,2,8,P
+1344,Hydraulic conductivity ,2,8,P
+1345,ohms law,2,8,P
+1346,volatage,2,8,P
+1347,current,2,8,P
+1348,Thermal conductivity ,2,8,P
+1349,Mass number ,3,8,P
+1350,mass ,3,8,P
+1351,molar mass constant ,3,8,P
+1352,Avogadro constant ,3,8,P
+1353,molar mass ,3,8,P
+1354,isotope ,3,8,P
+1355,nuclear fusion ,3,8,P
+1356,Boltzmann constant ,3,8,P
+1357,Mass concentration ,3,8,P
+1358,Molar concentration ,3,8,P
+1359,Molality ,3,8,P
+1360,Mass ,3,8,P
+1361,Volume ,3,8,P
+1362,Density ,3,8,P
+1363,Newton's laws of motion ,4,8,P
+1364,Analytical mechanics ,4,8,P
+1365,Damping ,4,8,P
+1366,Displacement ,4,8,P
+1367,Friction ,4,8,P
+1368,Motion ,4,8,P
+1369,Relative velocity ,4,8,P
+1370,Centripetal force ,4,8,P
+1371,Centrifugal force ,4,8,P
+1372,spatial vector ,5,8,P
+1373,circumflex ,5,8,P
+1374,Euclidean space ,5,8,P
+1375,right-hand rule ,5,8,P
+1376,polar coordinates ,5,8,P
+1377,Energy storage ,6,8,P
+1378,Potential energy ,6,8,P
+1379,Loop Current ,7,8,P
+1380,pressure ,7,8,P
+1381,temperature ,7,8,P
+1382,flow ,7,8,P
+1383,Current source ,7,8,P
+1384,acceleration ,8,8,P
+1385,gravitational ,8,8,P
+1386,buoyancy ,8,8,P
+1387,Newton's law of universal gravitation ,8,8,P
+1388,gravitational constant ,8,8,P
+1389,center of mass ,8,8,P
+1390,Theoretical gravity ,8,8,P
+1391,Gravitational potential § General relativity ,8,8,P
+1392,general relativity ,8,8,P
+1393,fictitious force ,8,8,P
+1394,free fall ,8,8,P
+1395,Newton's laws of motion ,9,8,P
+1396,Analytical mechanics ,9,8,P
+1397,Lagrangian mechanics ,9,8,P
+1398,Hamiltonian mechanics ,9,8,P
+1399,Displacement ,9,8,P
+1400,Fictitious force ,9,8,P
+1401,Friction ,9,8,P
+1402,Motion ,9,8,P
+1403,Relative velocity ,9,8,P
+1404,Angular acceleration ,9,8,P
+1405,displacement ,9,8,P
+1406,frequency ,9,8,P
+1407,velocity ,9,8,P
+1408,Quantum thermodynamics ,10,8,P
+1409,Equilibrium ,10,8,P
+1410,Isochoric ,10,8,P
+1411,Isothermal ,10,8,P
+1412,Adiabatic ,10,8,P
+1413,Quasistatic ,10,8,P
+1414,Polytropic ,10,8,P
+1415,Free expansion ,10,8,P
+1416,Reversibility ,10,8,P
+1417,Specific heat capacity ,10,8,P
+1418,Compressibility ,10,8,P
+1419,Thermal expansion ,10,8,P
+1420,Enthalpy ,10,8,P
+1421,Helmholtz free energy ,10,8,P
+1422,Gibbs free energy ,10,8,P
+1423,Gas laws ,10,8,P
+1424,Electrostatics ,11,8,P
+1425,Electric charge ,11,8,P
+1426,Electric dipole moment ,11,8,P
+1427,Electric field ,11,8,P
+1428,Electric flux ,11,8,P
+1429,Induction ,11,8,P
+1430,Insulator ,11,8,P
+1431,Electric potential ,11,8,P
+1432,Electromotive force ,11,8,P
+1433,Impedance ,11,8,P
+1434,Inductance ,11,8,P
+1435,Ohm's law ,11,8,P
+1436,Electrostatics ,12,8,P
+1437,Magnetostatics ,12,8,P
+1438,Magnetic field ,12,8,P
+1439,Magnetic flux ,12,8,P
+1440,Magnetic dipole moment ,12,8,P
+1441,Magnetic scalar potential ,12,8,P
+1442,Magnetization ,12,8,P
+1443,Magnetomotive force ,12,8,P
+1444,Wave interference ,13,8,P
+1445,Pass interference ,13,8,P
+1446,normal distribution ,14,8,P
+1447,mode ,14,8,P
+1448,median ,14,8,P
+1449,mean ,14,8,P
+1450,probability theory ,14,8,P
+1451,continuous random variable ,14,8,P
+1452,cumulative distribution function ,14,8,P
+1453,probability mass function ,14,8,P
+1454,Quantum thermodynamics ,15,8,P
+1455,Equilibrium ,15,8,P
+1456,Non-equilibrium ,15,8,P
+1457,Isobaric ,15,8,P
+1458,Isothermal ,15,8,P
+1459,Adiabatic ,15,8,P
+1460,Isentropic ,15,8,P
+1461,Isenthalpic ,15,8,P
+1462,Quasistatic ,15,8,P
+1463,Work ,15,8,P
+1464,Heat ,15,8,P
+1465,Functions of state ,15,8,P
+1466,Temperature ,15,8,P
+1467,Entropy ,15,8,P
+1468,Temperature,1,1,C
+1469,Heisenberg's_uncertainty_principle,1,1,C
+1470,Kelvin,1,1,C
+1471,Celsius,1,1,C
+1472,Fahrenheit,1,1,C
+1473,Vibration,1,1,C
+1474,Transition_state,2,1,C
+1475,Chemical_kinetics,2,1,C
+1476,Gas_constant,2,1,C
+1477,Temperature,2,1,C
+1478,Catalyst,2,1,C
+1479,Particle,3,1,C
+1480,Cohesion_(chemistry),3,1,C
+1481,Phase_(matter),3,1,C
+1482,Atom,4,1,C
+1483,Force,4,1,C
+1484,Heat,4,1,C
+1485,Evaporation,4,1,C
+1486,Organic_compound,5,1,C
+1487,Formaldehyde,5,1,C
+1488,Organic_chemistry,5,1,C
+1489,Solubility,5,1,C
+1490,Formaldehyde,5,1,C
+1491,Polymerization,5,1,C
+1492,Periodic_table,6,1,C
+1493,Alkali_metal,6,1,C
+1494,Energy,6,1,C
+1495,Electron,6,1,C
+1496,Ion,6,1,C
+1497,Charge,6,1,C
+1498,Organic_chemistry,7,1,C
+1499,Saturation_(chemistry),7,1,C
+1500,Aromaticity,7,1,C
+1501,Alkane,7,1,C
+1502,Acid,7,1,C
+1503,Molecule,8,1,C
+1504,Solvent,8,1,C
+1505,Hydrocarbon,8,1,C
+1506,Alkene,8,1,C
+1507,Redox,8,1,C
+1508,Double_bond,8,1,C
+1509,Pericyclic_reaction,8,1,C
+1510,Cyclic_compound,8,1,C
+1511,Chromatography,9,1,C
+1512,Mass_spectrometry,9,1,C
+1513,Chromatography,9,1,C
+1514, Ion,9,1,C
+1515,Electric_charge,9,1,C
+1516,Electrolyte,9,1,C
+1517,Plasma_(physics),9,1,C
+1518,Periodic_Table,9,1,C
+1519,Electrodes,9,1,C
+1520,Anion,9,1,C
+1521,Transition_metal,9,1,C
+1522, Anode,9,1,C
+1523,Electrode,9,1,C
+1524,Electron,9,1,C
+1525,Electrical_conductor,9,1,C
+1526,Anode,9,1,C
+1527,Battery,9,1,C
+1528,Cathode_ray_tube,9,1,C
+1529,Electrolytic_cell,9,1,C
+1530, Aqueous_solution,9,1,C
+1531,Solution,9,1,C
+1532,Solvent,9,1,C
+1533,Water,9,1,C
+1534,Chemical_equation,9,1,C
+1535,Chemical_formula,9,1,C
+1536,Solvation,9,1,C
+1537,Water,9,1,C
+1538,Solvent,9,1,C
+1539,Chemistry,9,1,C
+1540,Hydrocarbon,10,1,C
+1541,Chemical_compound,10,1,C
+1542,Chemical_bond,10,1,C
+1543,Electromagnetic_field,10,1,C
+1544,Polyester,10,1,C
+1545,Bohr_model,11,1,C
+1546,Periodic_table_period,11,1,C
+1547, Relative_atomic_mass,11,1,C
+1548,Atom,11,1,C
+1549,Ratio,11,1,C
+1550,Chemical_element,11,1,C
+1551,Dimensionless_quantity,11,1,C
+1552,Proton,11,1,C
+1553,Neutron,11,1,C
+1554,Isotope,11,1,C
+1555,Thallium,11,1,C
+1556,Mole_(unit),12,1,C
+1557,Amedeo_Avogadro,12,1,C
+1558,Carbon,12,1,C
+1559,Isotope,12,1,C
+1560,Air_pressure,13,1,C
+1561,Hectopascals,13,1,C
+1562,Altitude,13,1,C
+1563,Hot_air_balloon,13,1,C
+1564,Weather,13,1,C
+1565,Chemical_reaction,14,1,C
+1566,Cell_biology,14,1,C
+1567,Physiology,14,1,C
+1568,Enzyme,14,1,C
+1569,Nucleic_acid,14,1,C
+1570,Carbohydrate,14,1,C
+1571,Protein,14,1,C
+1572,Lipid,14,1,C
+1573,Polymer,14,1,C
+1574,Carbon,14,1,C
+1575,Metabolism,14,1,C
+1576,Carbohydrates,14,1,C
+1577,Quantum_mechanics,15,1,C
+1578,Emission_spectrum,15,1,C
+1579,Angular_momentum,15,1,C
+1580,Electron,15,1,C
+1581,Planck's_constant,15,1,C
+1582,Photons,15,1,C
+1583,Ideal_gas,1,2,C
+1584,Temperature,1,2,C
+1585,Pressure,1,2,C
+1586,Volume,1,2,C
+1587,Mass,1,2,C
+1588,Gas,1,2,C
+1589,Constant_(mathematics),1,2,C
+1590,Organic_chemistry,2,2,C
+1591,Inorganic_chemistry,2,2,C
+1592,DNA,2,2,C
+1593,Crystallography,2,2,C
+1594,Diffraction,2,2,C
+1595,Electromagnetic_radiation,2,2,C
+1596,Wavelength,2,2,C
+1597,Gas,3,2,C
+1598,Atom,3,2,C
+1599,Molecule,3,2,C
+1600,Botanist,3,2,C
+1601,Stochastic_process,3,2,C
+1602,Ion,4,2,C
+1603,Electron_shell(Valence_shells),4,2,C
+1604,Octet_rule,4,2,C
+1605,Electric_charge,4,2,C
+1606,Electron_configuration,4,2,C
+1607,Chemical_reactivity,4,2,C
+1608,Chemical_reaction,5,2,C
+1609,Biochemical,5,2,C
+1610,Enzymes,5,2,C
+1611,Inhibitor,5,2,C
+1612,Venom_(poison),5,2,C
+1613,Electrode,6,2,C
+1614,Electrical_conductor,6,2,C
+1615,Anode,6,2,C
+1616,Battery,6,2,C
+1617,Electrolytic_cell,7,2,C
+1618, Ion,7,2,C
+1619,Electric_charge,7,2,C
+1620,Electric_charge,7,2,C
+1621,Electrolyte,7,2,C
+1622,Electricity,7,2,C
+1623,Magnetic_field,7,2,C
+1624,Ionizing_radiation,7,2,C
+1625,Rule,8,2,C
+1626,Nomenclature,8,2,C
+1627,Chemical,8,2,C
+1628,International_Union_of_Pure_and_Applied_Chemistry,8,2,C
+1629,Organic_compound,8,2,C
+1630,Glossary,8,2,C
+1631,Biochemistry,8,2,C
+1632,Analytical_chemistry,8,2,C
+1633,Macromolecular_chemistry,8,2,C
+1634,Temperature,9,2,C
+1635,Energy,9,2,C
+1636,Exothermic_reaction,9,2,C
+1637,Endothermic_reaction,9,2,C
+1638,Nuclear_reaction,9,2,C
+1639,Atomic_nucleus,9,2,C
+1640,Electrolysis,9,2,C
+1641,Enantiomer,10,2,C
+1642,Isomer,10,2,C
+1643,Stereochemistry,10,2,C
+1644,Inorganic_chemistry,10,2,C
+1645,Organic_chemistry,10,2,C
+1646,Physical_chemistry,10,2,C
+1647,Biochemistry,10,2,C
+1648,Symmetry,10,2,C
+1649,Biochemistry,11,2,C
+1650,Analytical_chemistry,11,2,C
+1651,Amino_acids,11,2,C
+1652,Adsorption,11,2,C
+1653,Solvent,11,2,C
+1654,Pressure,11,2,C
+1655,Mixture,12,2,C
+1656,Phase,12,2,C
+1657,States_of_matter,12,2,C
+1658,Oxidant,13,2,C
+1659,Heat,13,2,C
+1660,Light,13,2,C
+1661,Flame,13,2,C
+1662,Solvation,14,2,C
+1663,Solution,14,2,C
+1664,Solvent,14,2,C
+1665,Solution,14,2,C
+1666,Water_cycle,15,2,C
+1667,Evaporation,15,2,C
+1668,Pressure,15,2,C
+1669,Molecules,15,2,C
+1670,Exothermic,15,2,C
+1671,Evaporation,15,2,C
+1672,Distillation,15,2,C
+1673,Delocalized_electron,1,3,C
+1674,Lone_pair,1,3,C
+1675,Radical_(chemistry),1,3,C
+1676,Substituent,1,3,C
+1677,Anion -Anion,1,3,C
+1678,Chromophore,1,3,C
+1679,Polymer,1,3,C
+1680,Aromaticity,1,3,C
+1681,Oxidation,2,3,C
+1682,Acid,2,3,C
+1683,Erosion,2,3,C
+1684,Stainless_steel,2,3,C
+1685,Compacted_oxide_layer_glaze,2,3,C
+1686,Electron_shell,3,3,C
+1687,Quantum_mechanics,3,3,C
+1688,Protons,3,3,C
+1689,Photon,3,3,C
+1690,Atom,3,3,C
+1691,Molecules,3,3,C
+1692,Picometer,3,3,C
+1693,Phase_(matter),4,3,C
+1694,Gas,4,3,C
+1695,Density,4,3,C
+1696,Phase_change,5,3,C
+1697,Crystallization,5,3,C
+1698,Pressure,5,3,C
+1699,Crystallography,5,3,C
+1700,Quartz,5,3,C
+1701,Diffraction,6,3,C
+1702,DNA,6,3,C
+1703,Electron_crystallography,6,3,C
+1704,Electron_microscope,6,3,C
+1705,RNA,6,3,C
+1706,Double_helix,6,3,C
+1707,Protein,6,3,C
+1708,Electron_crystallography,6,3,C
+1709,Macromolecule,6,3,C
+1710,Matter,7,3,C
+1711,Volume,7,3,C
+1712,Mass,7,3,C
+1713,Weight,7,3,C
+1714,Pressure,7,3,C
+1715,Electricity,8,3,C
+1716,Charge,8,3,C
+1717,Electric_charge,8,3,C
+1718,Magnitude_(mathematics),8,3,C
+1719,Magnetism,8,3,C
+1720,Electric_current,8,3,C
+1721,Frequency,9,3,C
+1722,Velocity,9,3,C
+1723,Light,9,3,C
+1724,Prism,9,3,C
+1725,Molecule,10,3,C
+1726,Solvent,10,3,C
+1727,Ion,10,3,C
+1728,Solute,10,3,C
+1729,Tension_(physics),11,3,C
+1730,Wire,11,3,C
+1731,Malleability,11,3,C
+1732,Compression_(physical),11,3,C
+1733,Aluminium,11,3,C
+1734,Steel,11,3,C
+1735,Electrical_current,12,3,C
+1736,Ion,12,3,C
+1737,Solvent,12,3,C
+1738,Electrolytic_cell,12,3,C
+1739,Ions,12,3,C
+1740,Electrode,12,3,C
+1741,Wave_(physics),13,3,C
+1742,Electric_field,13,3,C
+1743,Magnetic_field,13,3,C
+1744,Energy,13,3,C
+1745,Speed_of_light,13,3,C
+1746,Quantum_mechanics,13,3,C
+1747,Pressure,13,3,C
+1748,Electromagnetic_radiation,14,3,C
+1749,Wavelength,14,3,C
+1750,Planck_length,14,3,C
+1751,Ionization_energy,14,3,C
+1752,Electrical_current,14,3,C
+1753,Spectroscopy,14,3,C
+1754,Electric_charge,15,3,C
+1755,Electromagnetic_induction,15,3,C
+1756,Radioactive_decay,15,3,C
+1757,Gamma_ray,15,3,C
+1758,Electrical_conductor,1,4,C
+1759,Force,1,4,C
+1760,Electric_potential,1,4,C
+1761,Direct_current,1,4,C
+1762,Alternating_current,1,4,C
+1763,Voltmeter,1,4,C
+1764,Oscilloscope,1,4,C
+1765,Electric_field,1,4,C
+1766,Electron,2,4,C
+1767,Atom,2,4,C
+1768,Atomic_orbital,2,4,C
+1769,Periodic_table,2,4,C
+1770,Atom,3,4,C
+1771,Atomic_orbitals,3,4,C
+1772,Angular_momentum,3,4,C
+1773,Electron_configuration,3,4,C
+1774,Bohr_model,3,4,C
+1775,Transition_metal,3,4,C
+1776,Spectral_line,3,4,C
+1777,Electron,4,4,C
+1778,Lewis_acid,4,4,C
+1779,Electronegativity,4,4,C
+1780,Carbonyl,4,4,C
+1781,Oxidizing_agent,4,4,C
+1782,Nucleophile,4,4,C
+1783,Addition_reaction,4,4,C
+1784,Isomer,5,4,C
+1785,Chirality,5,4,C
+1786,Diastereoisomer,5,4,C
+1787,Boiling_point,5,4,C
+1788,NMR_spectroscopy,5,4,C
+1789,Thalidomide,5,4,C
+1790,Heat,6,4,C
+1791,Work_(physics),6,4,C
+1792,Pressure,6,4,C
+1793,Energy,6,4,C
+1794,Gasoline,6,4,C
+1795,Exothermic,6,4,C
+1796,Endothermic,6,4,C
+1797,Energy,7,4,C
+1798,Temperature,7,4,C
+1799,Energy,8,4,C
+1800,Work_(physics),8,4,C
+1801,Randomness,8,4,C
+1802,Heat,8,4,C
+1803,Energy,8,4,C
+1804,Information_theory,8,4,C
+1805,Chemistry,8,4,C
+1806,Second_law_of_thermodynamics,8,4,C
+1807,Protein,9,4,C
+1808,Molecules,9,4,C
+1809,Cells,9,4,C
+1810,Catalyst,9,4,C
+1811,RNA,9,4,C
+1812,Ribozyme,9,4,C
+1813,Pepsin,9,4,C
+1814,Protease,9,4,C
+1815,Hermann_Emil_Fischer,9,4,C
+1816,Molecule,9,4,C
+1817,Glucose,9,4,C
+1818,Chemical_reaction,10,4,C
+1819,Equilibrium_constant,10,4,C
+1820,Ammonia,10,4,C
+1821,Haber_process,10,4,C
+1822,Thermodynamics,10,4,C
+1823,Electricity,11,4,C
+1824,Frequency,11,4,C
+1825,Optical_filter,11,4,C
+1826,Light,11,4,C
+1827,Photographic_filter,11,4,C
+1828,Frequency,11,4,C
+1829,Concentration,12,4,C
+1830,Reaction_mechanism,12,4,C
+1831,Transition_state,12,4,C
+1832,Temperature,12,4,C
+1833,Pressure,12,4,C
+1834,Differential_equation,12,4,C
+1835,Integral,12,4,C
+1836,Boiling_point,13,4,C
+1837,Evaporation,13,4,C
+1838,Condensation,13,4,C
+1839,Distillation,13,4,C
+1840,Kelvin,13,4,C
+1841,Distillation -Simple_distillation,13,4,C
+1842,Fractionating_column,13,4,C
+1843, Radical_(chemistry),13,4,C
+1844,Antioxidant,13,4,C
+1845,Wave_(physics),14,4,C
+1846,Wavelength,14,4,C
+1847,Speed_of_light,14,4,C
+1848,Electromagnetic_waves,14,4,C
+1849,Vacuum,14,4,C
+1850,Infrared_radiation,14,4,C
+1851,Organometallic_chemistry,15,4,C
+1852,Chemical_reaction,15,4,C
+1853,Magnesium,15,4,C
+1854,Halide,15,4,C
+1855,Electrophile,15,4,C
+1856,Polar_bond,15,4,C
+1857,Carbonyl,15,4,C
+1858,Diethyl_ether,15,4,C
+1859,Exothermic,15,4,C
+1860,Bromide,15,4,C
+1861,Elimination_reaction,15,4,C
+1862,Hydrolysis,15,4,C
+1863,Organic_compound,15,4,C
+1864,Chemical_element,1,5,C
+1865,Periodic_table,1,5,C
+1866,Fluorine,1,5,C
+1867,Chlorine,1,5,C
+1868,Bromine,1,5,C
+1869,Iodine,1,5,C
+1870,Astatine,1,5,C
+1871,Tennessine,1,5,C
+1872,Reactivity_(chemistry),1,5,C
+1873,Chemical_compound,1,5,C
+1874,Electron,1,5,C
+1875,Astatine,1,5,C
+1876,Atom,2,5,C
+1877,Antiparticle,2,5,C
+1878,Quarks,2,5,C
+1879,Electrical_charge,2,5,C
+1880,Integer,2,5,C
+1881,Strong_force,2,5,C
+1882,Standard_Model,2,5,C
+1883,Strong_interaction,2,5,C
+1884,Nucleus_(physics),2,5,C
+1885,Kinetic_energy,3,5,C
+1886,Thermodynamics,3,5,C
+1887,Energy,3,5,C
+1888,Work_(physics),3,5,C
+1889,Thermal_energy,3,5,C
+1890,Energy,3,5,C
+1891,Temperature,3,5,C
+1892,Thermodynamics,3,5,C
+1893,Internal_energy,3,5,C
+1894,Thermodynamic_system,3,5,C
+1895,Chemical_bond,4,5,C
+1896,Electronegative,4,5,C
+1897,Hydrogen,4,5,C
+1898,Van_der_Waals_force,4,5,C
+1899,Covalent_bond,4,5,C
+1900,Ionic_bond,4,5,C
+1901,Metallic_bond,4,5,C
+1902,Water,4,5,C
+1903,Hydrogen,5,5,C
+1904,Organic_chemistry,5,5,C
+1905,Alkene,5,5,C
+1906,Alkane,5,5,C
+1907,Catalyst,5,5,C
+1908,Trans_fat,5,5,C
+1909,Pressure,5,5,C
+1910,Chemical_compound,6,5,C
+1911,Organic_compound,6,5,C
+1912,Carbon,6,5,C
+1913,Ion,6,5,C
+1914,Phosphate,6,5,C
+1915,Biochemistry,6,5,C
+1916,Organic_chemistry,6,5,C
+1917,Chemistry,7,5,C
+1918,Chemical_element,7,5,C
+1919,Inorganic_compound,7,5,C
+1920,Organic_chemistry,7,5,C
+1921,Carbon,7,5,C
+1922,Physics,8,5,C
+1923,Chemistry,8,5,C
+1924,Biology,8,5,C
+1925,Molecule,8,5,C
+1926,Macromolecule,8,5,C
+1927,Chemical_bond,8,5,C
+1928,Hydrogen,8,5,C
+1929,Atom,8,5,C
+1930,Electric_charge,9,5,C
+1931,Atom,9,5,C
+1932,Molecule,9,5,C
+1933,Electric_charge,9,5,C
+1934,Electrolyte,9,5,C
+1935,Plasma_(physics),9,5,C
+1936,Magnetic_field,9,5,C
+1937,Transition_metal,9,5,C
+1938,Ionizing_radiation,9,5,C
+1939,Cation,9,5,C
+1940,Anion,9,5,C
+1941,Anode,9,5,C
+1942,Chemical_bond,10,5,C
+1943,Metal,10,5,C
+1944,Crystal_lattice,10,5,C
+1945,Atom,10,5,C
+1946,Ion,10,5,C
+1947,Electron,10,5,C
+1948,Cation,10,5,C
+1949,Ion,11,5,C
+1950,Electric_charge,11,5,C
+1951,Ionization_energy,11,5,C
+1952,Ionizing_radiation,11,5,C
+1953,Chemical_compound,12,5,C
+1954,Molecular_formula,12,5,C
+1955,Atoms,12,5,C
+1956,Enantiomer,12,5,C
+1957,Atom,13,5,C
+1958,Chemical_element,13,5,C
+1959,Proton,13,5,C
+1960,Neutron,13,5,C
+1961,Mass,13,5,C
+1962,Matter,13,5,C
+1963,Chemical_element,13,5,C
+1964,Atomic_number,13,5,C
+1965,Chemical_element,14,5,C
+1966,Atomic_number,14,5,C
+1967,Lanthanum,14,5,C
+1968,Lutetium,14,5,C
+1969,Metal,14,5,C
+1970,Alkali_metal,14,5,C
+1971,Oxide,14,5,C
+1972,Magnet,14,5,C
+1973,Superconductor,14,5,C
+1974,Catalysis,14,5,C
+1975,Laser,14,5,C
+1976,Energy,15,5,C
+1977,Friction,15,5,C
+1978,Kinetic_energy,15,5,C
+1979,Thermal_energy,15,5,C
+1980,Thermodynamics,15,5,C
+1981,First_law_of_thermodynamics,15,5,C
+1982,Biochemical,1,6,C
+1983,Biological,1,6,C
+1984,Protein,1,6,C
+1985,Intermolecular_force,1,6,C
+1986,Ionic_bond,1,6,C
+1987,Hydrogen_bond,1,6,C
+1988,Substrate_(biochemistry),1,6,C
+1989,Inhibitor,1,6,C
+1990,Electromagnetic_radiation,2,6,C
+1991,Wavelength,2,6,C
+1992,Human,2,6,C
+1993,Eye,2,6,C
+1994,Electromagnetic_spectrum,2,6,C
+1995,Radiation,2,6,C
+1996,Sun,2,6,C
+1997,Optics,2,6,C
+1998,Wave,2,6,C
+1999,Particle_physics,2,6,C
+2000,Photons,2,6,C
+2001,Wavelength,2,6,C
+2002,Brain,2,6,C
+2003,Molecule,2,6,C
+2004,Tension_(physics),3,6,C
+2005,Wire,3,6,C
+2006,Malleability,3,6,C
+2007,Compression_(physical),3,6,C
+2008,Steel,3,6,C
+2009,Mass,4,6,C
+2010,Rest_mass,4,6,C
+2011,Kinetic_energy,4,6,C
+2012,Thermal_energy,4,6,C
+2013,Atoms,4,6,C
+2014,Vibration,4,6,C
+2015,Atom,4,6,C
+2016,Elementary_particle,4,6,C
+2017,States_of_matter,4,6,C
+2018,Temperature,4,6,C
+2019,Pressure,4,6,C
+2020,Steam,4,6,C
+2021,Chemical_element,5,6,C
+2022,Metal,5,6,C
+2023,Elements,5,6,C
+2024,Silicon,5,6,C
+2025,Semiconductor,5,6,C
+2026,Periodic_Table,5,6,C
+2027,Boron,5,6,C
+2028,Polonium,5,6,C
+2029,Astatine,5,6,C
+2030,Antimony,5,6,C
+2031,Arsenic,5,6,C
+2032,Tellurium,5,6,C
+2033,Germanium,5,6,C
+2034,Silicon,5,6,C
+2035,Boron,5,6,C
+2036,Concentration,6,6,C
+2037,Physical_chemistry,6,6,C
+2038,Solution,6,6,C
+2039,Mixture,6,6,C
+2040,Amount_of_substance,6,6,C
+2041,Mole_(unit),6,6,C
+2042,Volume,6,6,C
+2043,Solution,6,6,C
+2044,Solvent,6,6,C
+2045,Litre,6,6,C
+2046,Reciprocal,6,6,C
+2047,Dilution,6,6,C
+2048,Atom,7,6,C
+2049,Avogadro's_number,7,6,C
+2050,Mass_number,7,6,C
+2051,Chemical_element,7,6,C
+2052,Molecule,7,6,C
+2053,Sodium_hydroxide,7,6,C
+2054,Chemical_substance,8,6,C
+2055,Atom,8,6,C
+2056,Form,8,6,C
+2057,Valency,8,6,C
+2058,Plasma_(physics),8,6,C
+2059,Ionization,8,6,C
+2060,Molecular_formula,8,6,C
+2061,Glucose,8,6,C
+2062,Atoms,8,6,C
+2063,Electron,8,6,C
+2064,Covalent_bond,8,6,C
+2065,Ionic_bond,8,6,C
+2066,Physics,9,6,C
+2067,Chemistry,9,6,C
+2068,Subatomic_particle,9,6,C
+2069,Electron,9,6,C
+2070,Antiparticles,9,6,C
+2071,Fundamental_force,9,6,C
+2072,Strong_force,9,6,C
+2073,Chemical_species,10,6,C
+2074,Electrophile,10,6,C
+2075,Chemical_bond,10,6,C
+2076,Chemical_reaction,10,6,C
+2077,Molecule,10,6,C
+2078,Ion,10,6,C
+2079,Electron,10,6,C
+2080,Lone_pair,10,6,C
+2081,Ammonia,10,6,C
+2082,Azide,10,6,C
+2083,Amine,10,6,C
+2084,Nitrite,10,6,C
+2085,Gas,11,6,C
+2086,Periodic_table,11,6,C
+2087,Molecule,11,6,C
+2088,Atom,11,6,C
+2089,Chemical_element,11,6,C
+2090,Air,11,6,C
+2091,Noble_gas_compound,11,6,C
+2092,Cold_cathode,11,6,C
+2093,Radon,11,6,C
+2094,Radioactive,11,6,C
+2095,Atom,12,6,C
+2096,Valence_electron,12,6,C
+2097,Electron_shell,12,6,C
+2098,Electron_shell,12,6,C
+2099, Alkene,12,6,C
+2100,Organic_chemistry,12,6,C
+2101,Saturation_(chemistry),12,6,C
+2102,Chemical_compound,12,6,C
+2103,Carbon,12,6,C
+2104,Carbon,12,6,C
+2105,Double_bond,12,6,C
+2106,Functional_group,12,6,C
+2107,Hydrocarbon,12,6,C
+2108,Aromaticity,12,6,C
+2109,Alkane,12,6,C
+2110,Acid,12,6,C
+2111,Ethene,12,6,C
+2112,Propene,12,6,C
+2113,Butene,12,6,C
+2114,Chemical_reaction,13,6,C
+2115,Concentration,13,6,C
+2116,Reaction_mechanism,13,6,C
+2117,Transition_state,13,6,C
+2118,Temperature,13,6,C
+2119,Pressure,13,6,C
+2120, Organic_compound,13,6,C
+2121,Chemical_compound,13,6,C
+2122,Covalent_bond,13,6,C
+2123,Chemical_compounds,14,6,C
+2124,Nucleophilic_substitution,14,6,C
+2125,Carbocation,14,6,C
+2126,Stereochemistry,14,6,C
+2127,Isomer,14,6,C
+2128,Chirality_(chemistry),14,6,C
+2129,Superimposition,14,6,C
+2130,Solar_energy,14,6,C
+2131,Matter,14,6,C
+2132,Solvent,15,6,C
+2133,Molecule,15,6,C
+2134,Cell_membrane,15,6,C
+2135,Solute,15,6,C
+2136,Biochemistry,15,6,C
+2137,Cell,15,6,C
+2138,Macromolecule,15,6,C
+2139,Melting_point,15,6,C
+2140,Chemical_reaction,1,7,C
+2141,Oxidation_number,1,7,C
+2142,Oxidation_state,1,7,C
+2143, Oxidizing_agent,1,7,C
+2144,Acid,2,7,C
+2145,Alkali,2,7,C
+2146,Mole_(unit),2,7,C
+2147,Molarity,2,7,C
+2148,Universal_indicator,2,7,C
+2149,Litmus_paper,2,7,C
+2150,States_of_matter,3,7,C
+2151,Gas,3,7,C
+2152,Sublimation,3,7,C
+2153,Condensation,3,7,C
+2154,Deposition_(phase_transition),3,7,C
+2155,Evaporation,3,7,C
+2156,Temperature,3,7,C
+2157,Pressure,3,7,C
+2158,Covalent_bond,4,7,C
+2159,Chemical_bond,4,7,C
+2160,Bond_length,4,7,C
+2161,Picometer,4,7,C
+2162,Alkyne,4,7,C
+2163,Alkene,4,7,C
+2164,Atomic_number,5,7,C
+2165,Protons,5,7,C
+2166,Atom,5,7,C
+2167,Lanthanide,5,7,C
+2168,Actinides,5,7,C
+2169,Hydrogen,5,7,C
+2170,Atomic_weight,5,7,C
+2171,Chemical_bond,6,7,C
+2172,Atom,6,7,C
+2173,Molecule,6,7,C
+2174,Electronegativity,6,7,C
+2175,Covalent_bond,6,7,C
+2176,Energy,7,7,C
+2177,Kinetic_energy,7,7,C
+2178,Gravity,7,7,C
+2179,Mass,7,7,C
+2180,Elastic_potential_energy,7,7,C
+2181,Electric_charge,7,7,C
+2182,Electric_field,7,7,C
+2183,Acceleration_due_to_gravity,7,7,C
+2184,Force_(physics),8,7,C
+2185,Area,8,7,C
+2186,Atmospheric_pressure,8,7,C
+2187,Density,8,7,C
+2188,Ideal_gas_law,8,7,C
+2189,Light,9,7,C
+2190,Space_(physics),9,7,C
+2191,Polarization,9,7,C
+2192,Electron,9,7,C
+2193,Energy,9,7,C
+2194,Heat,9,7,C
+2195,Kinetic_energy,9,7,C
+2196,Ion,10,7,C
+2197,Oxidation,10,7,C
+2198,Acid,10,7,C
+2199,Deprotonation,10,7,C
+2200,Chemical_composition,10,7,C
+2201,Phase_(matter),10,7,C
+2202,Temperature,10,7,C
+2203,Pressure,10,7,C
+2204,Heat,11,7,C
+2205,Organic_chemistry,11,7,C
+2206, Quantum_mechanics,11,7,C
+2207,Proton,11,7,C
+2208,Neutron,11,7,C
+2209,Angular_momentum,11,7,C
+2210,Atomic_orbital,11,7,C
+2211,Energy,12,7,C
+2212,Waves,12,7,C
+2213,Gamma_rays,12,7,C
+2214,Uranium,13,7,C
+2215,Thorium,13,7,C
+2216,Plutonium,13,7,C
+2217,Radium,13,7,C
+2218,Beta_particle,13,7,C
+2219,Nuclear_reactor,13,7,C
+2220,Positron,13,7,C
+2221,Particle_accelerator,13,7,C
+2222,Gamma_ray,13,7,C
+2223,Angular_momentum,13,7,C
+2224,Gamma_ray_burst,13,7,C
+2225,Pressure,14,7,C
+2226,Solution,14,7,C
+2227,Volatile,14,7,C
+2228,Solvent,14,7,C
+2229,Pressure,14,7,C
+2230,Equation,15,7,C
+2231,Chemical_reaction,15,7,C
+2232,Concentration,15,7,C
+2233,Reaction_mechanism,15,7,C
+2234,Transition_state,15,7,C
+2235,Temperature,15,7,C
+2236,Pressure,15,7,C
+2237,Differential_equation,15,7,C
+2238,Integral,1,8,C
+2239,Chemical,1,8,C
+2240,Potassium_dichromate,1,8,C
+2241,Alcohol,1,8,C
+2242,Nitric_acid,1,8,C
+2243,Gold,1,8,C
+2244,Chemical_reaction,2,8,C
+2245,Intermediate,2,8,C
+2246,Transition_state,2,8,C
+2247,Organic_chemistry,2,8,C
+2248,Nucleophilic_substitution,2,8,C
+2249,Elimination_reaction,2,8,C
+2250,Addition_reaction,2,8,C
+2251,Electrons,2,8,C
+2252,Chemical_bond,2,8,C
+2253,Electron,3,8,C
+2254,Oxidizing_agent,3,8,C
+2255,Oxidation,3,8,C
+2256,Oxidation_state,3,8,C
+2257,Chemical_elements,3,8,C
+2258,Conduction,4,8,C
+2259,Electricity,4,8,C
+2260,Electrical_conductor,4,8,C
+2261,Integrated_circuit,4,8,C
+2262,Doping_(semiconductor),4,8,C
+2263,Impurity,4,8,C
+2264,Solute,5,8,C
+2265,Solvent,5,8,C
+2266,Solution,5,8,C
+2267,Molecule,6,8,C
+2268,Solvent,6,8,C
+2269,Ion,6,8,C
+2270,Solute,6,8,C
+2271,Light,7,8,C
+2272,Reflection,7,8,C
+2273,Spectrum,7,8,C
+2274,Subatomic_particles,7,8,C
+2275,Infrared_spectroscopy,7,8,C
+2276,Infrared,7,8,C
+2277,Electromagnetic_spectrum,7,8,C
+2278, Stoichiometry,8,8,C
+2279,Matter,8,8,C
+2280,Law_of_conservation_of_mass,8,8,C
+2281,Law_of_definite_composition,8,8,C
+2282, Acid_strength,8,8,C
+2283, Base_(chemistry),8,8,C
+2284,Hydrogen_ion,8,8,C
+2285,Proton,8,8,C
+2286,Negative_charge,8,8,C
+2287,Electronegative,8,8,C
+2288,Polymer,9,8,C
+2289,Isomer,9,8,C
+2290,Heat,10,8,C
+2291,Heat_conduction,10,8,C
+2292,Conduction,10,8,C
+2293,Power_(physics),10,8,C
+2294,Kelvin,10,8,C
+2295,Vacuum,10,8,C
+2296,Energy,11,8,C
+2297,Heat,11,8,C
+2298,Entropy,11,8,C
+2299,Spontaneity_(chemistry),11,8,C
+2300,Endothermic_reaction,11,8,C
+2301,Exothermic_reaction,11,8,C
+2302,Heat_capacity,11,8,C
+2303,Enthalpy,11,8,C
+2304,Entropy,11,8,C
+2305,Thermodynamic_potential,11,8,C
+2306,Adiabatic_process,11,8,C
+2307,Heat,12,8,C
+2308,Pressure,13,8,C
+2309,Energy,13,8,C
+2310,Mass,13,8,C
+2311,Charge,13,8,C
+2312,Temperature,13,8,C
+2313,Density,13,8,C
+2314, Titration,13,8,C
+2315,Quantitative_analysis_(chemistry),13,8,C
+2316,Reagent,13,8,C
+2317,Potentiometer,13,8,C
+2318,Electrode,13,8,C
+2319,Ions,13,8,C
+2320,Periodic_table,14,8,C
+2321,Alkaline_earth_metal,14,8,C
+2322,Atomic_number,14,8,C
+2323,Chemical_compound,14,8,C
+2324,Oxidation_state,14,8,C
+2325,Electrical_conductor,14,8,C
+2326,Temperature,15,8,C
+2327,Pressure,15,8,C
+2328,Equilibrium,15,8,C
+2329,Physical_constant,15,8,C
+2330,Thermodynamics,15,8,C
+2331,Reproduction,1,1,M
+2332,Chemical_process,1,1,M
+2333,Hydrolysis,1,1,M
+2334,C4_carbon_fixation,1,1,M
+2335,Crassulacean_acid_metabolism,1,1,M
+2336,Carbon_dioxide,1,1,M
+2337,Photorespiration,1,1,M
+2338,Photosynthesis,1,1,M
+2339,Sulfur,1,1,M
+2340,Fungi,1,1,M
+2341,Plant,2,1,M
+2342,Spore,2,1,M
+2343,Cytokinesis,2,1,M
+2344,Fertilisation,2,1,M
+2345,Galls,2,1,M
+2346,Chlorophyll,2,1,M
+2347,Amino_acids,2,1,M
+2348,Nucleic_acids,2,1,M
+2349,Proteins,2,1,M
+2350,Enzymes,2,1,M
+2351,Spectroscopy,3,1,M
+2352,Electromagnetic_radiation,3,1,M
+2353,Frequency,3,1,M
+2354,Wavelength,3,1,M
+2355,Electromagnetic_spectrum,3,1,M
+2356,Chemical_analysis,3,1,M
+2357,Infrared_spectroscopy,3,1,M
+2358,Ultraviolet-visible_spectroscopy,3,1,M
+2359,Atom,3,1,M
+2360,Molecule,3,1,M
+2361,Photodetector,3,1,M
+2362,Cell_membrane,4,1,M
+2363,Membrane_protein,4,1,M
+2364,Protein,4,1,M
+2365,Heat_shock_protein,4,1,M
+2366,Phalaenopsis,4,1,M
+2367,Phenylpropanoid_biosynthesis,4,1,M
+2368,Photosynthesis,4,1,M
+2369,Red_blood_cells,4,1,M
+2370,Oxygen,4,1,M
+2371,Blood,4,1,M
+2372,Biochemical_reaction,5,1,M
+2373,Metabolism,5,1,M
+2374,Acetyl,5,1,M
+2375,Citric_acid_cycle,5,1,M
+2376,Oxidation,5,1,M
+2377,Cysteamine,5,1,M
+2378,Pantothenic_acid,2,1,M
+2379,Sulfhydryl,6,1,M
+2380,Thioester,6,1,M
+2381,Hydrolysis,6,1,M
+2382,Coelom ,6,1,M
+2383,Body_cavity,6,1,M
+2384,Digestive_tract,6,1,M
+2385,Mesothelium,6,1,M
+2386,Molluscs,6,1,M
+2387,Gastrulation,6,1,M
+2388,Embryo,6,1,M
+2389,Archenteron,6,1,M
+2390,Protostomes,6,1,M
+2391,Chemical_reaction,7,1,M
+2392,Nuclear_reaction,7,1,M
+2393,Joules,7,1,M
+2394,Joule_per_mole,7,1,M
+2395,Kilocalorie_per_mole,7,1,M
+2396,Potential_barrier,7,1,M
+2397,Minima,7,1,M
+2398,Potential_energy,7,1,M
+2399,Thermodynamic_state,7,1,M
+2400,Diffusing_capacity,7,1,M
+2401,Enzyme,8,1,M
+2402,Enzyme_substrate,8,1,M
+2403,Chemical_reaction,8,1,M
+2404,Amino_acid,8,1,M
+2405,Binding_site,8,1,M
+2406,Enzyme_catalysis,8,1,M
+2407,Chemical_reaction,8,1,M
+2408,Tertiary_structure,8,1,M
+2409,Mesenchymal_stem_cell,9,1,M
+2410,Triglycerides,9,1,M
+2411,Liver,9,1,M
+2412,Skeletal_muscle,9,1,M
+2413,Heart,9,1,M
+2414,Pancreas,9,1,M
+2415,Abdominal_cavity,9,1,M
+2416,Free_fatty_acid,9,1,M
+2417,Lipoprotein,9,1,M
+2418,Triglyceride,9,1,M
+2419,Lipid,9,1,M
+2420,Population,10,1,M
+2421,Species,10,1,M
+2422,Continental_drift,10,1,M
+2423,Agriculture,10,1,M
+2424,Genetics,10,1,M
+2425,Natural_selection,10,1,M
+2426,Mutation,10,1,M
+2427,Gene_pool,10,1,M
+2428,Biological_dispersal,10,1,M
+2429,Emigration,10,1,M
+2430,Peripatric_speciation,10,1,M
+2431,Amine,11,1,M
+2432,Carboxylic_acid,11,1,M
+2433,Functional_group,11,1,M
+2434,Substituent,11,1,M
+2435,Chemical_element,11,1,M
+2436,Carbon,11,1,M
+2437,Hydrogen,11,1,M
+2438,Oxygen,11,1,M
+2439,Nitrogen,11,1,M
+2440,Genetic_code,11,1,M
+2441,Protista,11,1,M
+2442,Antimicrobial,12,1,M
+2443,Bacteria,12,1,M
+2444,Antibacterial_agent,12,1,M
+2445,Pathogenic_bacteria,12,1,M
+2446,Medication,12,1,M
+2447,Therapy,12,1,M
+2448,Antibiotic_prophylaxis,12,1,M
+2449,Bactericide,12,1,M
+2450,Bacteriostatic_agent,12,1,M
+2451,Antiprotozoal,12,1,M
+2452,Embryo,13,1,M
+2453,Phagocytic_cells,13,1,M
+2454,Intrinsic_apoptosis,13,1,M
+2455,Cellular_stress_response,13,1,M
+2456,Caspase,13,1,M
+2457,Protease,13,1,M
+2458,Atrophy,13,1,M
+2459,Cancer,13,1,M
+2460,Prokaryotes,14,1,M
+2461,Bacteria,14,1,M
+2462,Three-domain_system,14,1,M
+2463,Bacteria,14,1,M
+2464,Eukaryote,14,1,M
+2465,Phylum,14,1,M
+2466,Nucleic_acid,14,1,M
+2467,Gene,14,1,M
+2468,Plant_breeding,15,1,M
+2469,Cultigen,15,1,M
+2470,Cultivar,15,1,M
+2471,Crossbreed,15,1,M
+2472,Inbreeding,15,1,M
+2473,Linebreeding,15,1,M
+2474,Outcrossing,15,1,M
+2475,Plant_breeding,15,1,M
+2476,Reproduction,1,2,M
+2477,Gamete,1,2,M
+2478,Chromosomes,1,2,M
+2479,Multicellular_organism,1,2,M
+2480,Single-celled_organism,1,2,M
+2481,Eubacteria,2,2,M
+2482,Plant,2,2,M
+2483,Fungus,2,2,M
+2484,Prokaryote,2,2,M
+2485,Ecosystem,2,2,M
+2486,B_cell ,2,2,M
+2487,White_blood_cell,2,2,M
+2488,Lymphocyte,2,2,M
+2489,Humoral_immunity,2,2,M
+2490,Adaptive_immune_system,2,2,M
+2491,Secretion,2,2,M
+2492,Cytokine,3,2,M
+2493,Mammal,3,2,M
+2494,Cellular_differentiation,3,2,M
+2495,Bone_marrow,3,2,M
+2496,Murray_Barr,4,2,M
+2497,X_chromosome,4,2,M
+2498,Somatic_cell,4,2,M
+2499,Lyonization,4,2,M
+2500,Embryogenesis,4,2,M
+2501,Embryo,4,2,M
+2502,Mammal,4,2,M
+2503,Marsupial,4,2,M
+2504,Interphase,4,2,M
+2505,Species,5,2,M
+2506,Genus,5,2,M
+2507,Homo_sapiens,5,2,M
+2508,Carl_Linnaeus,5,2,M
+2509,Species_Plantarum,5,2,M
+2510,Catalysis,6,2,M
+2511,Enzyme,6,2,M
+2512,Enantiomeric_excess,6,2,M
+2513,Yeast,6,2,M
+2514,Organic_reduction,6,2,M
+2515,Ketone,6,2,M
+2516,Candida_(fungus),6,2,M
+2517,Michael_addition,6,2,M
+2518,Acrolein,6,2,M
+2519,Acetylacetone,6,2,M
+2520,Bioinformatics,7,2,M
+2521,Thermodynamics,7,2,M
+2522,Medical_imaging,7,2,M
+2523,Rapid_diagnostic_test,7,2,M
+2524,Prosthesis,7,2,M
+2525,Biopharmaceutical,7,2,M
+2526,Tissue_engineering,7,2,M
+2527,Energy,8,2,M
+2528,Cellular_respiration,8,2,M
+2529,Metabolism,8,2,M
+2530,Enzyme,8,2,M
+2531,Adenosine_triphosphate,8,2,M
+2532,Metabolic_network,8,2,M
+2533,Molecules,8,2,M
+2534,Organism,8,2,M
+2535,Genomics,9,2,M
+2536,Gene,9,2,M
+2537,Nucleotide,9,2,M
+2538,Single-nucleotide_polymorphism,9,2,M
+2539,Nucleic_acid,9,2,M
+2540,Protein,9,2,M
+2541,Proteomics,9,2,M
+2542,Flora,10,2,M
+2543,Fauna,10,2,M
+2544,Climate,10,2,M
+2545,Habitat,10,2,M
+2546,Human_microbiome,10,2,M
+2547,Molecular,10,2,M
+2548,Engineering,11,2,M
+2549,Medicine,11,2,M
+2550,Medical_diagnosis,11,2,M
+2551,Medical_monitor,11,2,M
+2552,Therapy,11,2,M
+2553,Clinical_engineering,11,2,M
+2554,Interdisciplinarity,11,2,M
+2555,Research_and_development,11,2,M
+2556,Biocompatible,11,2,M
+2557,Prosthesis,11,2,M
+2558,Photosynthesis,12,2,M
+2559,Glucose,12,2,M
+2560,Chloroplast,12,2,M
+2561,Thylakoid_membranes,12,2,M
+2562,Adenosine_triphosphate,12,2,M
+2563,Malic_acid,12,2,M
+2564,Chloroplast,12,2,M
+2565,Photosynthesis,12,2,M
+2566,Carotenoid ,12,2,M
+2567,Xanthophyll,12,2,M
+2568,Tetraterpene,13,2,M
+2569,Isoprene,13,2,M
+2570,Polyphenol,13,2,M
+2571,Photoprotection,13,2,M
+2572,Non-photochemical_quenching,13,2,M
+2573,Beta-carotene,13,2,M
+2574,Alpha-carotene,13,2,M
+2575,Prokaryote,14,2,M
+2576,Eukaryote,14,2,M
+2577,Metabolism,14,2,M
+2578,Signaling_pathway,14,2,M
+2579,Biological_life_cycle,14,2,M
+2580,Cell_culture,14,2,M
+2581,Cell_fractionation,14,2,M
+2582,Bacteria,14,2,M
+2583,Archaea,14,2,M
+2584,Cell_division ,14,2,M
+2585,Eukaryote,15,2,M
+2586,Mitosis,15,2,M
+2587,Chromosome,15,2,M
+2588,Gamete,15,2,M
+2589,Meiosis,15,2,M
+2590,Homologous_chromosome,15,2,M
+2591,Prokaryote,15,2,M
+2592,DNA_replication,15,2,M
+2593,Unicellular_organism,15,2,M
+2594,Microscope,1,3,M
+2595,Cell_nucleus,1,3,M
+2596,Organelle,1,3,M
+2597,Egg_cell,1,3,M
+2598,Protoplasm,1,3,M
+2599,Molecules,1,3,M
+2600,Osmosis,1,3,M
+2601,Cell_membrane,2,3,M
+2602,Prokaryote,2,3,M
+2603,Mollicute,2,3,M
+2604,Algae,2,3,M
+2605,Fungus,2,3,M
+2606,Eukaryote,2,3,M
+2607,Plants,2,3,M
+2608,Cytolysis,2,3,M
+2609,Embryophyte,2,3,M
+2610,Centrosome ,3,3,M
+2611,Organelle,3,3,M
+2612,Cell-cycle,3,3,M
+2613,Metazoa,3,3,M
+2614,Eukaryote,3,3,M
+2615,Fungus,3,3,M
+2616,Plant,3,3,M
+2617,Mitosis,3,3,M
+2618,Protein,4,3,M
+2619,Chemosynthesis ,4,3,M
+2620,Carbon_dioxide,4,3,M
+2621,Methane,4,3,M
+2622,Oxidation,4,3,M
+2623,Hydrogen,4,3,M
+2624,Hydrogen_sulfide,4,3,M
+2625,Ferrous,4,3,M
+2626,Photosynthesis,4,3,M
+2627,Organism,5,3,M
+2628,Carbon_dioxide,5,3,M
+2629,Proteobacteria,5,3,M
+2630,Pigment,6,3,M
+2631,Mesosomes,6,3,M
+2632,Cyanobacteria,6,3,M
+2633,Chloroplast,6,3,M
+2634,Plant,6,3,M
+2635,Photosynthesis,6,3,M
+2636,Light,6,3,M
+2637,Carbon_dioxide,7,3,M
+2638,Oxygen,7,3,M
+2639,Light_energy,7,3,M
+2640,Cytosine ,7,3,M
+2641,DNA,7,3,M
+2642,Adenine,8,3,M
+2643,Guanine,8,3,M
+2644,Thymine,8,3,M
+2645,Uracil,8,3,M
+2646,Pyrimidine,8,3,M
+2647,Heterocyclic,8,3,M
+2648,Aromatic_ring,8,3,M
+2649,Amine,8,3,M
+2650,Neurotransmission,9,3,M
+2651,Neuron,9,3,M
+2652,Axon,9,3,M
+2653,Synapses,9,3,M
+2654,Synapse,9,3,M
+2655,Action_potentials,9,3,M
+2656,Dendritic_spines,9,3,M
+2657,Electric_charge,10,3,M
+2658,Membrane_potential,10,3,M
+2659,Action_potential,10,3,M
+2660,Sodium,10,3,M
+2661,Ion,10,3,M
+2662,Cation,10,3,M
+2663,Anion,10,3,M
+2664,Resting_potential,10,3,M
+2665,Ion,10,3,M
+2666,Cell_adhesion,11,3,M
+2667,Cell_junction,11,3,M
+2668,Cell_membrane,11,3,M
+2669,Cardiac_muscle,11,3,M
+2670,Urinary_bladder,11,3,M
+2671,Gastrointestinal_wall,11,3,M
+2672,Epithelium,11,3,M
+2673,Giulio_Bizzozero,11,3,M
+2674,Classical_compound,11,3,M
+2675,Cytoskeletal,12,3,M
+2676,Motor_protein,12,3,M
+2677,Microtubule,12,3,M
+2678,Biological_cell,12,3,M
+2679,Adenosine_triphosphate,12,3,M
+2680,Mechanical_work,12,3,M
+2681,Intracellular_transport,12,3,M
+2682,Mitosis,12,3,M
+2683,Cilia,12,3,M
+2684,Flagella,12,3,M
+2685,Kinesin,12,3,M
+2686,Primary_production,13,3,M
+2687,Trophic_level,13,3,M
+2688,Ecosystem,13,3,M
+2689,Autotroph,13,3,M
+2690,Food_chain,13,3,M
+2691,Calorimeter,13,3,M
+2692,Primary_production,13,3,M
+2693,Energy,13,3,M
+2694,Food_chain,13,3,M
+2695,Food_web,13,3,M
+2696,Species,14,3,M
+2697,Mass_extinction,14,3,M
+2698,Pioneer_species,14,3,M
+2699,Self-perpetuating,14,3,M
+2700,Climax_community,14,3,M
+2701,Lava_flow,14,3,M
+2702,Landslide,14,3,M
+2703,Logging,14,3,M
+2704,Primary_succession,14,3,M
+2705,Species,15,3,M
+2706,Adaptation,15,3,M
+2707,Phenotype,15,3,M
+2708,Taxonomic_rank,15,3,M
+2709,Mutation,15,3,M
+2710,Panmictic,15,3,M
+2711,Sexual_dimorphism,15,3,M
+2712,Speciation,15,3,M
+2713,Taxonomic_rank,15,3,M
+2714,Bimodal_distribution,15,3,M
+2715,Speciation,15,3,M
+2716,Embryo,1,4,M
+2717,Mesoderm,1,4,M
+2718,Endoderm,1,4,M
+2719,Nervous_system,1,4,M
+2720,Epidermis,1,4,M
+2721,Integumentary_system,1,4,M
+2722,Vertebrate,1,4,M
+2723,External_ectoderm,1,4,M
+2724,Surface_ectoderm,1,4,M
+2725,Neural_crest,1,4,M
+2726,Body_temperature,2,4,M
+2727,Metabolic,2,4,M
+2728,Homeothermic,2,4,M
+2729,Reptile,2,4,M
+2730,Endothermy,2,4,M
+2731,Metabolism,2,4,M
+2732,Mesotherm,2,4,M
+2733,Poikilotherm,2,4,M
+2734,Homeothermy,2,4,M
+2735,Endotherm,2,4,M
+2736,Zygote,3,4,M
+2737,Embryo,3,4,M
+2738,Fertilization,3,4,M
+2739,Egg_cell,3,4,M
+2740,Arthropod,3,4,M
+2741,Vertebrates,3,4,M
+2742,Live-bearing_mammal,3,4,M
+2743,Mollusca,3,4,M
+2744,Scorpion,3,4,M
+2745,Reptile,3,4,M
+2746,Bird_egg,3,4,M
+2747,Fertilisation,4,4,M
+2748,Zygote,4,4,M
+2749,Gamete,4,4,M
+2750,Egg_cell,4,4,M
+2751,Sperm,4,4,M
+2752,Blastula,4,4,M
+2753,Gastrulation,4,4,M
+2754,Organogenesis,4,4,M
+2755,Fetus,4,4,M
+2756,Birth,4,4,M
+2757,Ecological,5,4,M
+2758,Species,5,4,M
+2759,Evolution,5,4,M
+2760,Eukaryotic,6,4,M
+2761,Prokaryotic,6,4,M
+2762,Konstantin_Mereschkowski,6,4,M
+2763,Lynn_Margulis,6,4,M
+2764,Organelle,6,4,M
+2765,Symbiosis,6,4,M
+2766,Bacteria,6,4,M
+2767,Archaea,6,4,M
+2768,Mitochondria,6,4,M
+2769,Plastid,6,4,M
+2770,Heritable,7,4,M
+2771,Phenotype,7,4,M
+2772,DNA_sequence,7,4,M
+2773,Genetics,7,4,M
+2774,Heredity,7,4,M
+2775,Gene_expression,7,4,M
+2776,Phenotypic_trait,7,4,M
+2777,Genome,7,4,M
+2778,Nucleotide_sequence,7,4,M
+2779,DNA_methylation,7,4,M
+2780,Heredity,8,4,M
+2781,Phenotypic_trait,8,4,M
+2782,Population,8,4,M
+2783,Generation,8,4,M
+2784,Gene_expression,8,4,M
+2785,Gene,8,4,M
+2786,Reproduction,8,4,M
+2787,Mutation,8,4,M
+2788,Genetic_recombination,8,4,M
+2789,Cell_nucleus,9,4,M
+2790,Eukaryotes,9,4,M
+2791,Organelles,9,4,M
+2792,Mitochondrion,9,4,M
+2793,Chloroplast,9,4,M
+2794,Virus,9,4,M
+2795,Bacteria,9,4,M
+2796,Cellular_respiration,9,4,M
+2797,Photosynthesis,9,4,M
+2798,Genes,9,4,M
+2799,Mitochondria,9,4,M
+2800,Metabolism,10,4,M
+2801,Enzyme,10,4,M
+2802,Carbohydrate,10,4,M
+2803,Cellular_respiration,10,4,M
+2804,Fermentation_in_food_processing,10,4,M
+2805,Microorganism,10,4,M
+2806,Adenosine_triphosphate,10,4,M
+2807,Anaerobic_digestion,10,4,M
+2808,Neolithic,10,4,M
+2809,Lactic_acid,10,4,M
+2810,Gametes,11,4,M
+2811,Sexual_reproduction,11,4,M
+2812,Double_fertilisation,11,4,M
+2813,Angiosperms,11,4,M
+2814,Haploid,11,4,M
+2815,Polar_nuclei,11,4,M
+2816,Triploid,11,4,M
+2817,Endosperm,11,4,M
+2818,Bacteria,12,4,M
+2819,Eukaryotic,12,4,M
+2820,Flagellate,12,4,M
+2821,Organelle,12,4,M
+2822,Archaea,12,4,M
+2823,Archaellum,12,4,M
+2824,Protein,12,4,M
+2825,Flagellin,12,4,M
+2826,Protein_family,13,4,M
+2827,Molecular_switch,13,4,M
+2828,Guanosine_diphosphate,13,4,M
+2829,GTPase,13,4,M
+2830,Monomeric,13,4,M
+2831,Small_GTPase,13,4,M
+2832,Heterotrimeric_G_protein,13,4,M
+2833,Protein_complex,13,4,M
+2834,G_alpha_subunit,13,4,M
+2835,Protein_subunit,13,4,M
+2836,Gene,14,4,M
+2837,Genetic_information,14,4,M
+2838,Population,14,4,M
+2839,Species,14,4,M
+2840,Genetic_diversity,14,4,M
+2841,Genetic_diversity,14,4,M
+2842,Inbreeding,14,4,M
+2843,Population_bottleneck,14,4,M
+2844,Extinction,14,4,M
+2845,Genetic_drift,14,4,M
+2846,Gene,15,4,M
+2847,Allele,15,4,M
+2848,Evolution,15,4,M
+2849,Gene_flow,15,4,M
+2850,Mutation,15,4,M
+2851,Random_sample,15,4,M
+2852,Genetic_linkage,15,4,M
+2853,Genetics,1,5,M
+2854,Phenotype,1,5,M
+2855,Epigenetic,1,5,M
+2856,Gene,1,5,M
+2857,Homozygous,1,5,M
+2858,Heterozygous,1,5,M
+2859,Genotype-phenotype_distinction,1,5,M
+2860,Asexual_reproduction,2,5,M
+2861,Sexual_reproduction,2,5,M
+2862,Organisms,2,5,M
+2863,Genetic_information,2,5,M
+2864,Species,2,5,M
+2865,Evolution,2,5,M
+2866,Natural_selection,2,5,M
+2867,Genetics,2,5,M
+2868,Eye_color,2,5,M
+2869,Gene,2,5,M
+2870,Genome,2,5,M
+2871,Tunicata,3,5,M
+2872,Pulmonate,3,5,M
+2873,Opisthobranch,3,5,M
+2874,Snails,3,5,M
+2875,Earthworms,3,5,M
+2876,Slug,3,5,M
+2877,Vertebrates,3,5,M
+2878,Ambiguous_genitalia,3,5,M
+2879,Gonadal_mosaicism,3,5,M
+2880,Gonochoristic,3,5,M
+2881,Genetic_variation,4,5,M
+2882,Genetic_drift,4,5,M
+2883,Homozygosity,4,5,M
+2884,Outcrossing,4,5,M
+2885,Homozygous,4,5,M
+2886,Recessive,4,5,M
+2887,Alleles,4,5,M
+2888,Organism,5,5,M
+2889,Fungi,5,5,M
+2890,Bacteria,5,5,M
+2891,Protists,5,5,M
+2892,Parasitic_plant,5,5,M
+2893,Microorganisms,5,5,M
+2894,Primary_nutritional_groups,5,5,M
+2895,Food_chain,5,5,M
+2896,Chemotroph,5,5,M
+2897,Photoheterotroph,5,5,M
+2898,Innate_immune_system,6,5,M
+2899,Adaptive_immune_system,6,5,M
+2900,Neutrophil,6,5,M
+2901,Macrophage,6,5,M
+2902,Monocyte,6,5,M
+2903,Cytokine,6,5,M
+2904,Dendritic_cell,6,5,M
+2905,T_cell,6,5,M
+2906,B_cell,6,5,M
+2907,Antibody,6,5,M
+2908,Protein,7,5,M
+2909,Plasma_cell,7,5,M
+2910,Immune_system,7,5,M
+2911,Pathogen,7,5,M
+2912,Pathogenic_bacteria,7,5,M
+2913,Viral_disease,7,5,M
+2914,Antigen,7,5,M
+2915,Fragment_antigen-binding,7,5,M
+2916,Paratope,7,5,M
+2917,Epitope,7,5,M
+2918,Adaptive_immune_system,8,5,M
+2919,Pharmaceutical_drug,8,5,M
+2920,Antibiotic,8,5,M
+2921,Antiviral_drug,8,5,M
+2922,Antifungal_medication,8,5,M
+2923,Antiprotozoal_agent,8,5,M
+2924,Antihelminthic,8,5,M
+2925,Medicine,8,5,M
+2926,Infectious_disease_(medical_specialty),8,5,M
+2927,Subclinical_infection,8,5,M
+2928,Peptide_hormone,9,5,M
+2929,Beta_cell,9,5,M
+2930,Pancreatic_islets,9,5,M
+2931,Anabolism,9,5,M
+2932,Hormone,9,5,M
+2933,Metabolism,9,5,M
+2934,Protein,9,5,M
+2935,Liver,9,5,M
+2936,Signaling_protein,10,5,M
+2937,Host_cells,10,5,M
+2938,Virus,10,5,M
+2939,Proteins,10,5,M
+2940,Cytokine,10,5,M
+2941,Immune_system,10,5,M
+2942,Viral_replication,10,5,M
+2943,Virus_infection,10,5,M
+2944,Immune_cells,10,5,M
+2945,Natural_killer_cell,10,5,M
+2946,Egg_cell,11,5,M
+2947,Sperm,11,5,M
+2948,Sexual_reproduction,11,5,M
+2949,Mammal,11,5,M
+2950,Reptile,11,5,M
+2951,Bird,11,5,M
+2952,Fish,11,5,M
+2953,Copulation,11,5,M
+2954,Fertilization,11,5,M
+2955,Cell_cycle,12,5,M
+2956,Mitosis,12,5,M
+2957,Metabolism,12,5,M
+2958,Mitosis,12,5,M
+2959,Cell_nucleus,12,5,M
+2960,Prophase,12,5,M
+2961,Mitosis,12,5,M
+2962,Meiosis,12,5,M
+2963,Somatic_cell,12,5,M
+2964,Diploid,12,5,M
+2965,Metamorphosis,13,5,M
+2966,Adult,13,5,M
+2967,Insect,13,5,M
+2968,Amphibians,13,5,M
+2969,Cnidarians,13,5,M
+2970,Biological_life_cycle,13,5,M
+2971,Caterpillar,13,5,M
+2972,Butterfly,13,5,M
+2973,Tadpoles,13,5,M
+2974,Frogs,13,5,M
+2975,Natural_selection,14,5,M
+2976,The_Genetical_Theory_of_Natural_Selection,14,5,M
+2977,Evolution,14,5,M
+2978,Mathematics,14,5,M
+2979,Population_genetics,14,5,M
+2980,Modern_synthesis_(20th_century),14,5,M
+2981,Gregor_Johann_Mendel,14,5,M
+2982,Moravians,14,5,M
+2983,Pisum_sativum,14,5,M
+2984,Immune_system,15,5,M
+2985,Infectious_disease,15,5,M
+2986,Multipotent,15,5,M
+2987,Bone_marrow,15,5,M
+2988,Hematopoietic_stem_cell,15,5,M
+2989,Blood,15,5,M
+2990,Lymphatic_system,15,5,M
+2991,Cell_nucleus,15,5,M
+2992,Blood_cell,15,5,M
+2993,Connective_tissue,1,6,M
+2994,Bone,1,6,M
+2995,Skeletal_system,1,6,M
+2996,Human_body,1,6,M
+2997,Periodontal_ligament_stem_cells,1,6,M
+2998,Joint,1,6,M
+2999,Tendon,1,6,M
+3000,Muscle,1,6,M
+3001,Articular_capsule,1,6,M
+3002,Synovial_joint,1,6,M
+3003,Evolution,2,6,M
+3004,Species,2,6,M
+3005,Microevolution,2,6,M
+3006,Allele_frequency,2,6,M
+3007,Speciation,2,6,M
+3008,Comparative_genomics,2,6,M
+3009,Orthogenesis,2,6,M
+3010,Vitalism,2,6,M
+3011,Organism,2,6,M
+3012,Evolution,2,6,M
+3013,Molecule,3,6,M
+3014,Protein,3,6,M
+3015,Polymerization,3,6,M
+3016,Monomers,3,6,M
+3017,Atoms,3,6,M
+3018,Biopolymers,3,6,M
+3019,Nucleic_acid,3,6,M
+3020,Carbohydrate,3,6,M
+3021,Lipid,3,6,M
+3022,Chemical_substance,4,6,M
+3023,Plant,4,6,M
+3024,Fungus,4,6,M
+3025,Protist,4,6,M
+3026,Metabolism,4,6,M
+3027,Excretion,4,6,M
+3028,Hair,4,6,M
+3029,Carbohydrate,4,6,M
+3030,Lipid,4,6,M
+3031,Protein_(nutrient),4,6,M
+3032,Histamine,5,6,M
+3033,Heparin,5,6,M
+3034,Granulocyte,5,6,M
+3035,CFU-GEMM,5,6,M
+3036,Allergy,5,6,M
+3037,Anaphylaxis,5,6,M
+3038,Angiogenesis,5,6,M
+3039,Immune_tolerance,5,6,M
+3040,Pathogen,5,6,M
+3041,Basophil_granulocyte,5,6,M
+3042,White_blood_cell,5,6,M
+3043,Hermaphrodite,6,6,M
+3044,Organism,6,6,M
+3045,Sexual_reproduction,6,6,M
+3046,Fertilization,6,6,M
+3047,Germ_cell,6,6,M
+3048,Gamete,6,6,M
+3049,Sex_organ,6,6,M
+3050,Insemination,6,6,M
+3051,Internal_fertilization,6,6,M
+3052,External_fertilization,6,6,M
+3053,Electric_potential,7,6,M
+3054,Cell_membrane,7,6,M
+3055,Lipid_bilayer,7,6,M
+3056,Protein,7,6,M
+3057,Transmembrane_proteins,7,6,M
+3058,Organisms,8,6,M
+3059,Energy,8,6,M
+3060,Protein,8,6,M
+3061,Lipid,8,6,M
+3062,Nucleic_acid,8,6,M
+3063,Carbohydrate,8,6,M
+3064,Enzyme,8,6,M
+3065,Digestion,8,6,M
+3066,Catabolic,8,6,M
+3067,Cellular_respiration,8,6,M
+3068,Mitosis,9,6,M
+3069,Eukaryote,9,6,M
+3070,Cell_cycle,9,6,M
+3071,Anaphase,9,6,M
+3072,Chromosome,9,6,M
+3073,DNA_sequence,9,6,M
+3074,Cell_cycle,9,6,M
+3075,Prometaphase,9,6,M
+3076,Anaphase,9,6,M
+3077,Microtubule,9,6,M
+3078,Allele_frequencies,10,6,M
+3079,Mutation,10,6,M
+3080,Natural_selection,10,6,M
+3081,Artificial_selection,10,6,M
+3082,Gene_flow,10,6,M
+3083,Genetic_drift,10,6,M
+3084,Macroevolution,10,6,M
+3085,Population_genetics,10,6,M
+3086,Ecological_genetics,10,6,M
+3087,Evolution,10,6,M
+3088,Cell_cycle,11,6,M
+3089,Chromosomes,11,6,M
+3090,Interphase,11,6,M
+3091,Cytokinesis,11,6,M
+3092,Cytoplasm,11,6,M
+3093,Organelle,11,6,M
+3094,Cell_membrane,11,6,M
+3095,Cell_division,11,6,M
+3096,Prophase,11,6,M
+3097,Molecule,12,6,M
+3098,Reversible_reaction,12,6,M
+3099,Wikipedia:Citing_sources,12,6,M
+3100,Ligand,12,6,M
+3101,PH_indicator,12,6,M
+3102,PH,12,6,M
+3103,Molecular_computer,12,6,M
+3104,Allosteric_regulation,12,6,M
+3105,Visual_perception,12,6,M
+3106,Molecular_machine,12,6,M
+3107,Organism,13,6,M
+3108,Unicellular_organism,13,6,M
+3109,Embryophyte,13,6,M
+3110,Fungi,13,6,M
+3111,Algae,13,6,M
+3112,Slime_mold,13,6,M
+3113,Dictyostelium,13,6,M
+3114,Cell_division,13,6,M
+3115,Colonial_organism,13,6,M
+3116,Science,14,6,M
+3117,Nervous_system,14,6,M
+3118,Multidisciplinary_approach,14,6,M
+3119,Anatomy,14,6,M
+3120,Neuron,14,6,M
+3121,Neural_circuit,14,6,M
+3122,Neuroimaging,14,6,M
+3123,Brain,14,6,M
+3124,Synapse,15,6,M
+3125,Nervous_tissue,15,6,M
+3126,Sponge,15,6,M
+3127,Placozoa,15,6,M
+3128,Plant,15,6,M
+3129,Fungi,15,6,M
+3130,Sensory_neuron,15,6,M
+3131,Sense,15,6,M
+3132,Motor_neuron,15,7,M
+3133,Biopolymer,1,7,M
+3134,Biomolecule,1,7,M
+3135,Life,1,7,M
+3136,Nucleotide,1,7,M
+3137,Monomer,1,7,M
+3138,Pentose,1,7,M
+3139,Phosphate,1,7,M
+3140,Nitrogenous_base,1,7,M
+3141,Sugar,1,7,M
+3142,Ribose,1,7,M
+3143,Organism,2,7,M
+3144,Sexual_reproduction,2,7,M
+3145,Bird,2,7,M
+3146,Adult,2,7,M
+3147,Infant,2,7,M
+3148,Multicellular_organism,3,7,M
+3149,Plant,3,7,M
+3150,Fungi,3,7,M
+3151,Unicellular_organism,3,7,M
+3152,Microorganism,3,7,M
+3153,Protist,3,7,M
+3154,Bacteria,3,7,M
+3155,Archaea,3,7,M
+3156,Reproduction,3,7,M
+3157,Homeostasis,3,7,M
+3158,Cilia,4,7,M
+3159,Basal_body,4,7,M
+3160,Ciliate,4,7,M
+3161,Symbiont,4,7,M
+3162,Ecospace,4,7,M
+3163,Sesamoid,4,7,M
+3164,Thumb,4,7,M
+3165,Giant_panda,4,7,M
+3166,Primate,4,7,M
+3167,Hominini,4,7,M
+3168,Microorganism,5,7,M
+3169,Virus,5,7,M
+3170,Bacterium,5,7,M
+3171,Protozoan,5,7,M
+3172,Prion,5,7,M
+3173,Viroid,5,7,M
+3174,Fungus,5,7,M
+3175,Parasite,5,7,M
+3176,Genetics,6,7,M
+3177,Organism,6,7,M
+3178,Behavior,6,7,M
+3179,Gene_expression,6,7,M
+3180,Genotype,6,7,M
+3181,Multicellular,7,7,M
+3182,Photosynthetic,7,7,M
+3183,Eukaryote,7,7,M
+3184,Algae,7,7,M
+3185,Fungi,7,7,M
+3186,Prokaryote,7,7,M
+3187,Archaea,7,7,M
+3188,Bacteria,7,7,M
+3189,Clade,7,7,M
+3190,Biological_cell,8,7,M
+3191,Organism,8,7,M
+3192,Homologous_chromosome,8,7,M
+3193,Chromosome,8,7,M
+3194,Cell_nucleus,8,7,M
+3195,Eukaryotes,8,7,M
+3196,Diploid,8,7,M
+3197,Muscle,8,7,M
+3198,Prokaryotes,8,7,M
+3199,Bacterium,8,7,M
+3200,Organism,9,7,M
+3201,Species,9,7,M
+3202,Geographical_area,9,7,M
+3203,Sex,9,7,M
+3204,Interbreeding,9,7,M
+3205,Crossbreed,9,7,M
+3206,Human,9,7,M
+3207,Biomolecule,10,7,M
+3208,Macromolecule,10,7,M
+3209,Amino_acid,10,7,M
+3210,Enzyme_catalysis,10,7,M
+3211,DNA_replication,10,7,M
+3212,Cell_signaling,10,7,M
+3213,Cytoskeleton,10,7,M
+3214,Scleroprotein,10,7,M
+3215,Intracellular_transport,10,7,M
+3216,Nucleotide_sequence,10,7,M
+3217,Polymer,11,7,M
+3218,Genetic_code,11,7,M
+3219,Regulatory_RNA,11,7,M
+3220,RNA_splicing,11,7,M
+3221,Gene,11,7,M
+3222,DNA,11,7,M
+3223,Nucleic_acid,11,7,M
+3224,Lipid,11,7,M
+3225,Protein,11,7,M
+3226,Carbohydrate,11,7,M
+3227,Vascular_tissue,12,7,M
+3228,Parenchyma,12,7,M
+3229,Ancient_Greek,12,7,M
+3230,Pith,12,7,M
+3231,Endosperm,12,7,M
+3232,Seeds,12,7,M
+3233,Meristematic,12,7,M
+3234,Cell_division,12,7,M
+3235,Cellulose,12,7,M
+3236,Cell_wall,12,7,M
+3237,Reproduction,13,7,M
+3238,Biological_life_cycle,13,7,M
+3239,Gamete,13,7,M
+3240,Sperm,13,7,M
+3241,Egg_cell,13,7,M
+3242,Chromosome,13,7,M
+3243,Haploid,13,7,M
+3244,Diploid,13,7,M
+3245,Multicellular_organism,13,7,M
+3246,Eukaryotes,13,7,M
+3247,Evolution,14,7,M
+3248,Species,14,7,M
+3249,Natural_selection,14,7,M
+3250,Sexual_selection,14,7,M
+3251,Population,14,7,M
+3252,Allopatric_speciation,14,7,M
+3253,Peripatric_speciation,14,7,M
+3254,Sympatric_speciation,14,7,M
+3255,Gamete,15,7,M
+3256,Anisogamous,15,7,M
+3257,Sexual_reproduction,15,7,M
+3258,Motile,15,7,M
+3259,Flagellum,15,7,M
+3260,Spermatozoa,15,7,M
+3261,Red_algae,15,7,M
+3262,Fungi,15,7,M
+3263,Flowering_plants,15,7,M
+3264,Pollen,15,7,M
+3265,Macromolecule,1,8,M
+3266,Protein,1,8,M
+3267,Amino_acid,1,8,M
+3268,RNA,1,8,M
+3269,DNA,1,8,M
+3270,Nucleotide,1,8,M
+3271,Biological_membrane,1,8,M
+3272,Lipid,1,8,M
+3273,Tertiary_structure,1,8,M
+3274,Primary_structure,1,8,M
+3275,Biomolecule,1,8,M
+3276,Eukaryotic,2,8,M
+3277,Prokaryotic,2,8,M
+3278,Konstantin_Mereschkowski,2,8,M
+3279,Lynn_Margulis,2,8,M
+3280,Organelle,2,8,M
+3281,Symbiosis,2,8,M
+3282,Bacteria,2,8,M
+3283,Archaea,2,8,M
+3284,Mitochondria,2,8,M
+3285,Plastid,2,8,M
+3286,Correlation_and_dependence,3,8,M
+3287,Cladograms,3,8,M
+3288,Phylogenetic_tree,3,8,M
+3289,Taxa,3,8,M
+3290,Biogeography,3,8,M
+3291,Cell_nucleus,3,8,M
+3292,Organelle,3,8,M
+3293,Cytoplasm,3,8,M
+3294,John_Lindley,3,8,M
+3295,Phylogenetics,3,8,M
+3296,Male,4,8,M
+3297,Sex_hormone,4,8,M
+3298,Anabolic_steroid,4,8,M
+3299,Male_reproductive_system,4,8,M
+3300,Testes,4,8,M
+3301,Prostate,4,8,M
+3302,Secondary_sexual_characteristic,4,8,M
+3303,Steroid,4,8,M
+3304,Androstane,4,8,M
+3305,Nucleobase,5,8,M
+3306,Nucleic_acid,5,8,M
+3307,RNA,5,8,M
+3308,Adenine,5,8,M
+3309,Cytosine,5,8,M
+3310,Guanine,5,8,M
+3311,Adenine,5,8,M
+3312,DNA,5,8,M
+3313,Thymine,5,8,M
+3314,Demethylated,5,8,M
+3315,By-product,6,8,M
+3316,Metabolism,6,8,M
+3317,Kidney,6,8,M
+3318,Ureter,6,8,M
+3319,Urinary_bladder,6,8,M
+3320,Urination,6,8,M
+3321,Excretion,6,8,M
+3322,Urethra,6,8,M
+3323,Nitrogen,6,8,M
+3324,Urea,6,8,M
+3325,Sex_organ,7,8,M
+3326,Reproductive_system,7,8,M
+3327,Human,7,8,M
+3328,Mammal,7,8,M
+3329,Cervix,7,8,M
+3330,Vagina,7,8,M
+3331,Fallopian_tubes,7,8,M
+3332,Fetus,7,8,M
+3333,Biological_membrane,8,8,M
+3334,Organelle,8,8,M
+3335,Plant_cell,8,8,M
+3336,Fungi,8,8,M
+3337,Protist,8,8,M
+3338,Bacteria,8,8,M
+3339,Enzymes,8,8,M
+3340,Solutes,8,8,M
+3341,Autophagy,8,8,M
+3342,Blood_vessel,9,8,M
+3343,Smooth_muscle,9,8,M
+3344,Vein,9,8,M
+3345,Artery,9,8,M
+3346,Arteriole,9,8,M
+3347,Vasoconstriction,9,8,M
+3348,Blood_flow,9,8,M
+3349,Vascular_resistance,9,8,M
+3350,Cardiac_output,9,8,M
+3351,Asexual_reproduction,10,8,M
+3352,Artificial_reproduction,10,8,M
+3353,Monocotyledon,10,8,M
+3354,Vascular_cambium,10,8,M
+3355,Plant_propagation,10,8,M
+3356,Leaf,10,8,M
+3357,Plant_stem,10,8,M
+3358,Root,10,8,M
+3359,Subphylum,11,8,M
+3360,Chordates,11,8,M
+3361,Vertebral_column,11,8,M
+3362,Phylum,11,8,M
+3363,Chordata,11,8,M
+3364,Species,11,8,M
+3365,Extant_taxon,11,8,M
+3366,Frog,11,8,M
+3367,Paedophryne_amauensis,11,8,M
+3368,Evolution,12,8,M
+3369,Directional_selection,12,8,M
+3370,Evolutionary_pressure,12,8,M
+3371,Negative_selection_(natural_selection),12,8,M
+3372,Appendix_(anatomy),12,8,M
+3373,Vomeronasal_organ,12,8,M
+3374,Snake,12,8,M
+3375,Whale,12,8,M
+3376,Ontogeny,12,8,M
+3377,Ontogeny,12,8,M
+3378,Heterotroph,13,8,M
+3379,Detritivore,13,8,M
+3380,Plankton,13,8,M
+3381,Phytoplankton,13,8,M
+3382,Ocean,13,8,M
+3383,Sea,13,8,M
+3384,Diploid,14,8,M
+3385,Fungi,14,8,M
+3386,Protist,14,8,M
+3387,Haploid,14,8,M
+3388,Mycelia,14,8,M
+3389,Homothallic,14,8,M
+3390,Heterothallic,14,8,M
+3391,Chlamydospore,14,8,M
+3392,Eukaryotic,14,8,M
+3393,Algae,14,8,M
+3394,Eukaryote,15,8,M
+3395,Fertilization,15,8,M
+3396,Gamete,15,8,M
+3397,Genome,15,8,M
+3398,Mitosis,15,8,M
+3399,Oscar_Hertwig,15,8,M
+3400,Richard_Hertwig,15,8,M
+3401,Karyogamy,15,8,M
+3402,Embryophyte,15,8,M
+3403,Archegonium,15,8,M
